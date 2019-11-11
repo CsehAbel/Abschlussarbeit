@@ -1,8 +1,13 @@
 import subprocess
 import re
+import numpy
 
 task = subprocess.Popen("cat szoveg.txt | docker run -i mtaril/emtsv tok,spell,morph,pos,conv-morph,dep,chunk,ner", shell=True, stdout=subprocess.PIPE)
 
+with open('emChunker.txt', 'w') as f:
+    for item in task.stdout.readlines():
+        f.write("%s\n" % item.decode('utf-8'))
+#Dokumentálni a feldarabolást vizuálisan
 arrayNPext = []
 with open('emChunker.txt') as f:
     sor = f.readline()
@@ -71,7 +76,30 @@ for i in arrayNPext:
     print('\n')
     arrayNPextNonPunct.append(arrayNPintNonPunct)
 
-
+def generate_bow(allNP):
+    dim = 0
+    for ii in allNP:
+        for jj in i:
+            dim = dim + jj.__len__()
+    bag_vectors = numpy.zeros(len(allNP)*2)
+    words = []
+    for a in allNP:
+        words.extend([b[0] for b in a])
+for i in generate_bow(arrayNPextNonPunct):
+    print(i)
+'''
+    bag_vector = numpy.zeros(len(a))
+    for w in words:
+        for i,word in enumerate(vocab):
+            if word == w:
+                bag_vector[i] += 1
+    bag_vectors = numpy.vstack((bag_vectors,bag_vector))
+    print("{0}\n{1}\n".format(sentence,numpy.array(bag_vector)))
+bag_vectors=numpy.delete(bag_vectors, 0, 0)
+print(bag_vectors)
+return bag_vectors
+bow=generate_bow(text)
+'''
 
 
 

@@ -1,4 +1,5 @@
 import re
+import numpy
 
 arrayNPext = []
 with open('emChunker.txt') as f:
@@ -61,3 +62,19 @@ for i in arrayNPext:
             print(j)
     print('\n')
     arrayNPextNonPunct.append(arrayNPintNonPunct)
+
+print(arrayNPextNonPunct)
+
+def generate_bow(allNP):
+    dim = 0
+    for ii in allNP:
+        for jj in i:
+            dim = dim + jj.__len__()
+    bag_vectors = numpy.zeros(dim)
+    words = []
+    for a in allNP:
+        words.extend([b for b in a])
+    words = sorted(list(set(words)))
+
+
+generate_bow(arrayNPextNonPunct)
