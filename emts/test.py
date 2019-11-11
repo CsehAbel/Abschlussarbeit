@@ -1,7 +1,4 @@
-import subprocess
 import re
-
-task = subprocess.Popen("cat szoveg.txt | docker run -i mtaril/emtsv tok,spell,morph,pos,conv-morph,dep,chunk,ner", shell=True, stdout=subprocess.PIPE)
 
 arrayNPext = []
 with open('emChunker.txt') as f:
@@ -53,13 +50,7 @@ with open('emChunker.txt') as f:
                     arrayNPint.append(sorArray)
                     break
         sor = f.readline()
-#1. B-NP E-NP      B-NP I-NP,I-NP...E-NP  külön array ba    --> második dokumentum  1. ugyanez
-#2. a vektorokból kiszűrjük a központozást                                          2. ugyanaz
-#3. bag of words = egy set-et csinálunk az összes szóból
-#4. megcsináljuk az 1. lépésből a vektorokat                                        3. a létező bag of words ot felhasználva vektorokat csinálunk
 
-#a vektorizált NP-nek vesszük a cosinus hasonlóságát az összes többivel a másodikból, a legnagyobb értéket eltároljuk
-#az értékeket összeadjuk minden egyes NP-re az első dokumentomból, ez a szám megmutatja mennyire hasonló a második doksival
 arrayNPextNonPunct = []
 patternNonPunct = re.compile('[1-9a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]+')
 for i in arrayNPext:
@@ -70,8 +61,3 @@ for i in arrayNPext:
             print(j)
     print('\n')
     arrayNPextNonPunct.append(arrayNPintNonPunct)
-
-
-
-
-
