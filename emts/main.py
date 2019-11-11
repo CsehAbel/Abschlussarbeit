@@ -77,29 +77,31 @@ for i in arrayNPext:
     arrayNPextNonPunct.append(arrayNPintNonPunct)
 
 def generate_bow(allNP):
-    dim = 0
-    for ii in allNP:
-        for jj in i:
-            dim = dim + jj.__len__()
-    bag_vectors = numpy.zeros(len(allNP)*2)
     words = []
     for a in allNP:
-        words.extend([b[0] for b in a])
-for i in generate_bow(arrayNPextNonPunct):
-    print(i)
-'''
-    bag_vector = numpy.zeros(len(a))
-    for w in words:
-        for i,word in enumerate(vocab):
+        words.extend([b for b in a])
+    words = sorted(list(set(words)))
+    bag_vectors = numpy.zeros(len(words))
+    for np in allNP:
+        bag_vector = numpy.zeros(len(words))
+        for npWord in np:
+            for count, word in enumerate(words):
+                if word == npWord:
+                    bag_vector[count] += 1
+        bag_vectors = numpy.vstack((bag_vectors, bag_vector))
+        print("{0}\n{1}\n".format(np, numpy.array(bag_vector)))
+
+
+
+
+    '''for w in words:
+        for k, word in enumerate(vocab):
             if word == w:
-                bag_vector[i] += 1
-    bag_vectors = numpy.vstack((bag_vectors,bag_vector))
-    print("{0}\n{1}\n".format(sentence,numpy.array(bag_vector)))
-bag_vectors=numpy.delete(bag_vectors, 0, 0)
-print(bag_vectors)
-return bag_vectors
-bow=generate_bow(text)
-'''
+                bag_vector[k] += 1
+    bag_vectors = numpy.vstack((bag_vectors, bag_vector))
+    print("{0}\n{1}\n".format(sentence, numpy.array(bag_vector)))
+    '''
+generate_bow(arrayNPextNonPunct)
 
 
 
