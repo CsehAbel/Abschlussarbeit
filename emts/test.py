@@ -66,15 +66,28 @@ for i in arrayNPext:
 print(arrayNPextNonPunct)
 
 def generate_bow(allNP):
-    dim = 0
-    for ii in allNP:
-        for jj in i:
-            dim = dim + jj.__len__()
-    bag_vectors = numpy.zeros(dim)
     words = []
     for a in allNP:
         words.extend([b for b in a])
     words = sorted(list(set(words)))
+    bag_vectors = numpy.zeros(len(words))
+    for np in allNP:
+        bag_vector = numpy.zeros(len(words))
+        for npWord in np:
+            for count, word in enumerate(words):
+                if word == npWord:
+                    bag_vector[count] += 1
+        bag_vectors = numpy.vstack((bag_vectors, bag_vector))
+        print("{0}\n{1}\n".format(np, numpy.array(bag_vector)))
 
 
+
+
+    '''for w in words:
+        for k, word in enumerate(vocab):
+            if word == w:
+                bag_vector[k] += 1
+    bag_vectors = numpy.vstack((bag_vectors, bag_vector))
+    print("{0}\n{1}\n".format(sentence, numpy.array(bag_vector)))
+    '''
 generate_bow(arrayNPextNonPunct)
