@@ -1,93 +1,32 @@
 import re
 import numpy
 
-arrayNPext = []
-with open('emChunker.txt') as f:
-    sor = f.readline()
-    arrayNPint = []
-    while sor:
-        patternStem = re.compile('^(.*?)\s.*"stem": \["([1-9a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüű]+?)".*\s([^\s]+?)\s[^\s]+$')
-        resultStem = patternStem.match(sor)
-        patternLemma = re.compile('^(.*?)\s.*"lemma": "([1-9a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüű]+?)".*\s([^\s]+?)\s[^\s]+$')
-        resultLemma = patternLemma.match(sor)
-        patternRaw = re.compile('^([1-9a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]+?)\s.*\s([^\s]+?)\s[^\s]+$')
-        resultRaw = patternRaw.match(sor)
-        patternPunct = re.compile('^(.*?)\s.*\s([^\s]+?)\s[^\s]+$')
-        resultPunct = patternPunct.match(sor)
-        NP = ""
-        sorArray = []
-        if resultStem:
-            sorArray.extend([resultStem.group(2), resultStem.group(3)])
-            NP = resultStem.group(3)
-            print('%s, %s' % (resultStem.group(1), resultStem.group(3)))
-        elif resultLemma:
-            sorArray.extend([resultLemma.group(2), resultLemma.group(3)])
-            NP = resultLemma.group(3)
-            print('%s, %s' % (resultLemma.group(1), resultLemma.group(3)))
-        elif resultRaw:
-            sorArray.extend(resultRaw.groups())
-            NP = resultRaw.group(2)
-            print('%s, %s' % (resultRaw.group(1), resultRaw.group(2)))
-        elif resultPunct:
-            sorArray.extend(resultPunct.groups())
-            NP = resultPunct.group(2)
-            print('%s, %s' % (resultPunct.group(1), resultPunct.group(2)))
-        else:
-            sor = f.readline()
-            continue
+import urllib.request
 
-        if NP == "B-NP":
-            if arrayNPint.__len__() > 0:
-                arrayNPext.append(arrayNPint)
-                arrayNPint = []
-            arrayNPint.append(sorArray)
-        elif NP == "I-NP" or NP == "E-NP":
-            i = len(arrayNPint)-1
-            while i >= 0:
-                if arrayNPint[i][1] == "I-NP":
-                    i = i-1
-                    continue
-                elif arrayNPint[i][1] == "B-NP":
-                    arrayNPint.append(sorArray)
-                    break
-        sor = f.readline()
+import bs4
+import html5lib
 
-arrayNPextNonPunct = []
-patternNonPunct = re.compile('[1-9a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüű\-]+')
-for i in arrayNPext:
-    arrayNPintNonPunct = []
-    for j in i:
-        if patternNonPunct.match(j[0]):
-            arrayNPintNonPunct.append(j[0])
-            print(j)
-    print('\n')
-    arrayNPextNonPunct.append(arrayNPintNonPunct)
+def get_text_bs(html):
+    tree = bs4.BeautifulSoup(html, 'html5lib')
 
-print(arrayNPextNonPunct)
+    body = tree.body
+    if body is None:
+        return None
 
-def generate_bow(allNP):
-    words = []
-    for a in allNP:
-        words.extend([b for b in a])
-    words = sorted(list(set(words)))
-    bag_vectors = numpy.zeros(len(words))
-    for np in allNP:
-        bag_vector = numpy.zeros(len(words))
-        for npWord in np:
-            for count, word in enumerate(words):
-                if word == npWord:
-                    bag_vector[count] += 1
-        bag_vectors = numpy.vstack((bag_vectors, bag_vector))
-        print("{0}\n{1}\n".format(np, numpy.array(bag_vector)))
+    for tag in body.select('script'):
+        tag.decompose()
+    for tag in body.select('style'):
+        tag.decompose()
+
+    text = body.get_text(separator='\n')
+    return text
 
 
+html = urllib.request.urlopen('https://totalcar.hu/magazin/hirek/')
+raw = get_text_bs(html)
 
-
-    '''for w in words:
-        for k, word in enumerate(vocab):
-            if word == w:
-                bag_vector[k] += 1
-    bag_vectors = numpy.vstack((bag_vectors, bag_vector))
-    print("{0}\n{1}\n".format(sentence, numpy.array(bag_vector)))
-    '''
-generate_bow(arrayNPextNonPunct)
+tidy = lambda c: re.sub(
+    r'(^\s*[\r\n]+|^\s*\Z)|(\s*\Z|\s*[\r\n]+)',
+    lambda m: '\n' if m.lastindex == 2 else '',
+    c)
+print(tidy(raw))
