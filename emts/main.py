@@ -104,9 +104,9 @@ def generate_bow_matrix(bow,ddd_array):
     return bag_vectors
 
 
-docker_to_file('szoveg.txt', 'emChunker.txt')
-docker_to_file('szoveg1.txt', 'emChunker1.txt')
-docker_to_file('szoveg2.txt', 'emChunker2.txt')
+#docker_to_file('szoveg.txt', 'emChunker.txt')
+#docker_to_file('szoveg1.txt', 'emChunker1.txt')
+#docker_to_file('szoveg2.txt', 'emChunker2.txt')
 
 bow = generate_bow_matrix(generate_bow(generate_3d_array('emChunker.txt')), generate_3d_array('emChunker.txt'))
 bow1 = generate_bow_matrix(generate_bow(generate_3d_array('emChunker.txt')), generate_3d_array('emChunker1.txt'))
