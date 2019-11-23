@@ -178,24 +178,20 @@ print(jaccard_sim('emChunker1.txt', 'emChunker2.txt'))
 
 #Euklideszi távolság
 from scipy.spatial import distance
-p1 = (1, 2, 3)
-p2 = (4, 5, 6)
-d = distance.euclidean(p1, p2)
 
 def compare_bows_eucl(bow_1, bow_2):
     sum_of_max = 0
     for vector_b1 in bow_1:
-        max_cos_sim = 0
+        max_eucl_sim = 0
         for vector_b2 in bow_2:
             if numpy.count_nonzero(vector_b1) == 0 or numpy.count_nonzero(vector_b2) == 0:
                 continue
-            cos_sim = dot(vector_b1, vector_b2) / (norm(vector_b1) * norm(vector_b2))
-            if max_cos_sim < cos_sim:
-                max_cos_sim = cos_sim
-        sum_of_max += max_cos_sim
+            eucl_sim = distance.euclidean(vector_b1, vector_b2)
+            if max_eucl_sim < eucl_sim:
+                max_eucl_sim = eucl_sim
+        sum_of_max += max_eucl_sim
     return sum_of_max
 
-#Teszt
 print(compare_bows_eucl(bow, bow1))
 print(compare_bows_eucl(bow, bow2))
 
