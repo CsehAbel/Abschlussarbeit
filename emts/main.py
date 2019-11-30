@@ -222,9 +222,9 @@ tidy = lambda c: re.sub(
     lambda m: '\n' if m.lastindex == 2 else '',
     c)
 
-#html = urllib.request.urlopen('https://totalcar.hu/magazin/hirek/')
-#raw = get_text_bs(html)
-#print(tidy(raw))
+html = urllib.request.urlopen('https://totalcar.hu/magazin/hirek/')
+raw = get_text_bs(html)
+print(tidy(raw))
 
 
 
