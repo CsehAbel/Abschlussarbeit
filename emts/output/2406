@@ -1,0 +1,56 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+Kamagra	false	{"stem": [], "anas": []}	[]	Kamagra	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+fórum	true	{"stem": ["fórum"], "anas": [[["st", "fórum"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "fórum", "tag": "[/N][Nom]", "morphana": "fórum[/N]=fórum+[Nom]=", "readable": "fórum[/N] + [Nom]", "twolevel": "f:f ó:ó r:r u:u m:m :[/N] :[Nom]"}]	fórum	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	3	PUNCT	2	I-NP	O
+
+Kamagra	false	{"stem": [], "anas": []}	[]	Kamagra	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+zselé	true	{"stem": ["zselé"], "anas": [[["st", "zselé"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "zselé", "tag": "[/N][Nom]", "morphana": "zselé[/N]=zselé+[Nom]=", "readable": "zselé[/N] + [Nom]", "twolevel": "z:z s:s e:e l:l é:é :[/N] :[Nom]"}]	zselé	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	2	I-NP	O
+
+fórum	true	{"stem": ["fórum"], "anas": [[["st", "fórum"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "fórum", "tag": "[/N][Nom]", "morphana": "fórum[/N]=fórum+[Nom]=", "readable": "fórum[/N] + [Nom]", "twolevel": "f:f ó:ó r:r u:u m:m :[/N] :[Nom]"}]	fórum	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+vélemények	true	{"stem": ["vélemény"], "anas": [[["st", "vélemény"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "vélemény", "tag": "[/N][Pl][Nom]", "morphana": "vélemény[/N]=vélemény+ek[Pl]=ek+[Nom]=", "readable": "vélemény[/N] + ek[Pl] + [Nom]", "twolevel": "v:v é:é l:l e:e m:m é:é n:n y:y :[/N] e:e k:k :[Pl] :[Nom]"}]	vélemény	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	7	COORD	5	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	8	PUNCT	7	I-NP	O
+
+tapasztalatok	true	{"stem": ["tapasztalat"], "anas": [[["st", "tapasztalat"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "tapasztalat", "tag": "[/N][Pl][Nom]", "morphana": "tapasztalat[/N]=tapasztalat+ok[Pl]=ok+[Nom]=", "readable": "tapasztalat[/N] + ok[Pl] + [Nom]", "twolevel": "t:t a:a p:p a:a s:s z:z t:t a:a l:l a:a t:t :[/N] o:o k:k :[Pl] :[Nom]"}]	tapasztalat	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	9	COORD	7	E-NP	O
+
+
+
+Főoldal	true	{"stem": ["főoldal"], "anas": [[["st", "főoldal"], ["po", "noun"], ["ts", "NOM"], ["al", "főoldalak"]]]}	[{"lemma": "főoldal", "tag": "[/N][Nom]", "morphana": "fő[/N]=fő+oldal[/N]=oldal+[Nom]=", "readable": "fő[/N] + oldal[/N] + [Nom]", "twolevel": "f:f ő:ő :[/N] o:o l:l d:d a:a l:l :[/N] :[Nom]"}]	főoldal	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Kamagra	false	{"stem": [], "anas": []}	[]	Kamagra	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+fórum	true	{"stem": ["fórum"], "anas": [[["st", "fórum"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "fórum", "tag": "[/N][Nom]", "morphana": "fórum[/N]=fórum+[Nom]=", "readable": "fórum[/N] + [Nom]", "twolevel": "f:f ó:ó r:r u:u m:m :[/N] :[Nom]"}]	fórum	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Kamagra	false	{"stem": [], "anas": []}	[]	Kamagra	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+fórum	true	{"stem": ["fórum"], "anas": [[["st", "fórum"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "fórum", "tag": "[/N][Nom]", "morphana": "fórum[/N]=fórum+[Nom]=", "readable": "fórum[/N] + [Nom]", "twolevel": "f:f ó:ó r:r u:u m:m :[/N] :[Nom]"}]	fórum	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	3	PUNCT	2	I-NP	O
+
+Kamagra	false	{"stem": [], "anas": []}	[]	Kamagra	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+zselé	true	{"stem": ["zselé"], "anas": [[["st", "zselé"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "zselé", "tag": "[/N][Nom]", "morphana": "zselé[/N]=zselé+[Nom]=", "readable": "zselé[/N] + [Nom]", "twolevel": "z:z s:s e:e l:l é:é :[/N] :[Nom]"}]	zselé	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	2	I-NP	O
+
+fórum	true	{"stem": ["fórum"], "anas": [[["st", "fórum"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "fórum", "tag": "[/N][Nom]", "morphana": "fórum[/N]=fórum+[Nom]=", "readable": "fórum[/N] + [Nom]", "twolevel": "f:f ó:ó r:r u:u m:m :[/N] :[Nom]"}]	fórum	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+vélemények	true	{"stem": ["vélemény"], "anas": [[["st", "vélemény"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "vélemény", "tag": "[/N][Pl][Nom]", "morphana": "vélemény[/N]=vélemény+ek[Pl]=ek+[Nom]=", "readable": "vélemény[/N] + ek[Pl] + [Nom]", "twolevel": "v:v é:é l:l e:e m:m é:é n:n y:y :[/N] e:e k:k :[Pl] :[Nom]"}]	vélemény	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	7	COORD	5	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	8	PUNCT	7	I-NP	O
+
+tapasztalatok	true	{"stem": ["tapasztalat"], "anas": [[["st", "tapasztalat"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "tapasztalat", "tag": "[/N][Pl][Nom]", "morphana": "tapasztalat[/N]=tapasztalat+ok[Pl]=ok+[Nom]=", "readable": "tapasztalat[/N] + ok[Pl] + [Nom]", "twolevel": "t:t a:a p:p a:a s:s z:z t:t a:a l:l a:a t:t :[/N] o:o k:k :[Pl] :[Nom]"}]	tapasztalat	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	9	COORD	7	E-NP	O
+
+
+
+Főoldal	true	{"stem": ["főoldal"], "anas": [[["st", "főoldal"], ["po", "noun"], ["ts", "NOM"], ["al", "főoldalak"]]]}	[{"lemma": "főoldal", "tag": "[/N][Nom]", "morphana": "fő[/N]=fő+oldal[/N]=oldal+[Nom]=", "readable": "fő[/N] + oldal[/N] + [Nom]", "twolevel": "f:f ő:ő :[/N] o:o l:l d:d a:a l:l :[/N] :[Nom]"}]	főoldal	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+

@@ -1,0 +1,1626 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+Cryout	false	{"stem": [], "anas": []}	[]	Cryout	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Creations	false	{"stem": [], "anas": []}	[]	Creations	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ATT	3	I-NP	B-ORG
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	6	I-NP	I-ORG
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	NE	5	I-NP	I-ORG
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	NE	6	E-NP	E-ORG
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	6	ROOT	0	O	O
+
+Plugins	false	{"stem": [], "anas": []}	[]	Plugins	[/N][Nom]	PROPN	Case=Nom|Number=Sing	7	COORD	6	O	O
+
+
+
+Skip	false	{"stem": [], "anas": []}	[]	Skip	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+content	false	{"stem": [], "anas": []}	[{"lemma": "content", "tag": "[/N][Nom]", "morphana": "content[/N]=content+[Nom]=", "readable": "content[/N] + [Nom]", "twolevel": "c:c o:o n:n t:t e:e n:n t:t :[/N] :[Nom]"}]	content	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+
+
+MENU	false	{"stem": [], "anas": []}	[]	MENU	[/N]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	NE	3	I-NP	B-ORG
+
+Featured	false	{"stem": [], "anas": []}	[]	Featured	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	NE	4	I-NP	I-ORG
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N]	PROPN	Case=Nom|Number=Sing	4	NE	5	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	NE	6	I-NP	I-ORG
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N]	PROPN	Case=Nom|Number=Sing	6	NE	7	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	7	NE	8	I-NP	I-ORG
+
+Kahuna	false	{"stem": [], "anas": []}	[]	Kahuna	[/N]	PROPN	Case=Nom|Number=Sing	8	NE	9	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	9	NE	10	I-NP	I-ORG
+
+Anima	false	{"stem": [], "anas": []}	[]	Anima	[/N]	PROPN	Case=Nom|Number=Sing	10	NE	11	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	11	NE	12	I-NP	I-ORG
+
+Septera	false	{"stem": [], "anas": []}	[]	Septera	[/N]	PROPN	Case=Nom|Number=Sing	12	NE	13	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	13	NE	14	I-NP	I-ORG
+
+Fluida	false	{"stem": [], "anas": []}	[]	Fluida	[/N]	PROPN	Case=Nom|Number=Sing	14	NE	15	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	15	NE	16	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	16	NE	17	I-NP	I-ORG
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	17	NE	18	I-NP	I-ORG
+
+Anima	false	{"stem": [], "anas": []}	[]	Anima	[/N]	PROPN	Case=Nom|Number=Sing	18	NE	19	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	19	NE	20	I-NP	I-ORG
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N]	PROPN	Case=Nom|Number=Sing	20	NE	21	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	21	NE	22	I-NP	I-ORG
+
+Fluida	false	{"stem": [], "anas": []}	[]	Fluida	[/N]	PROPN	Case=Nom|Number=Sing	22	NE	23	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	23	NE	24	I-NP	I-ORG
+
+Kahuna	false	{"stem": [], "anas": []}	[]	Kahuna	[/N]	PROPN	Case=Nom|Number=Sing	24	NE	25	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	25	NE	26	I-NP	I-ORG
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N]	PROPN	Case=Nom|Number=Sing	26	NE	27	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	27	NE	28	I-NP	I-ORG
+
+Septera	false	{"stem": [], "anas": []}	[]	Septera	[/N]	PROPN	Case=Nom|Number=Sing	28	NE	29	I-NP	I-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	29	ATT	30	I-NP	I-ORG
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	30	ROOT	0	I-NP	I-ORG
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	31	NE	32	I-NP	I-ORG
+
+Anima	false	{"stem": [], "anas": []}	[]	Anima	[/N][Nom]	PROPN	Case=Nom|Number=Sing	32	NE	33	I-NP	I-ORG
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N]	PROPN	Case=Nom|Number=Sing	33	NE	34	I-NP	I-ORG
+
+Fluida	false	{"stem": [], "anas": []}	[]	Fluida	[/N]	PROPN	Case=Nom|Number=Sing	34	NE	35	I-NP	I-ORG
+
+Kahuna	false	{"stem": [], "anas": []}	[]	Kahuna	[/N]	PROPN	Case=Nom|Number=Sing	35	ATT	36	I-NP	I-ORG
+
+Mantra	true	{"stem": ["mantra"], "anas": [[["st", "mantra"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "mantra", "tag": "[/N][Nom]", "morphana": "mantra[/N]=mantra+[Nom]=", "readable": "mantra[/N] + [Nom]", "twolevel": "m:m a:a n:n t:t r:r a:a :[/N] :[Nom]"}]	mantra	[/N][Nom]	NOUN	Case=Nom|Number=Sing	36	ATT	38	I-NP	I-ORG
+
+Nirvana	false	{"stem": [], "anas": []}	[]	Nirvana	[/N][Nom]	PROPN	Case=Nom|Number=Sing	37	ATT	38	I-NP	I-ORG
+
+Parabola	true	{"stem": ["parabola"], "anas": [[["st", "parabola"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "parabola", "tag": "[/N][Nom]", "morphana": "parabola[/N]=parabola+[Nom]=", "readable": "parabola[/N] + [Nom]", "twolevel": "p:p a:a r:r a:a b:b o:o l:l a:a :[/N] :[Nom]"}]	parabola	[/N][Nom]	NOUN	Case=Nom|Number=Sing	38	COORD	30	I-NP	I-ORG
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N][Nom]	PROPN	Case=Nom|Number=Sing	39	NE	40	I-NP	I-ORG
+
+Septera	false	{"stem": [], "anas": []}	[]	Septera	[/N][Nom]	PROPN	Case=Nom|Number=Sing	40	ATT	41	I-NP	I-ORG
+
+Tempera	true	{"stem": ["tempera"], "anas": [[["st", "tempera"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "tempera", "tag": "[/N][Nom]", "morphana": "tempera[/N]=tempera+[Nom]=", "readable": "tempera[/N] + [Nom]", "twolevel": "t:t e:e m:m p:p e:e r:r a:a :[/N] :[Nom]"}]	tempera	[/N][Nom]	NOUN	Case=Nom|Number=Sing	41	COORD	38	I-NP	I-ORG
+
+Verbosa	false	{"stem": [], "anas": []}	[]	Verbos	[/N][Poss.3Sg][Nom]	PROPN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	42	NE	43	I-NP	I-ORG
+
+Zombie	false	{"stem": [], "anas": []}	[]	Zombie	[/N][Nom]	PROPN	Case=Nom|Number=Sing	43	NE	44	I-NP	I-ORG
+
+Apocalypse	false	{"stem": [], "anas": []}	[]	Apocalypse	[/N]	PROPN	Case=Nom|Number=Sing	44	NE	45	I-NP	I-ORG
+
+Plugins	false	{"stem": [], "anas": []}	[]	Plugins	[/N]	PROPN	Case=Nom|Number=Sing	45	NE	46	I-NP	I-ORG
+
+Serious	false	{"stem": [], "anas": []}	[]	Serious	[/N][Nom]	PROPN	Case=Nom|Number=Sing	46	NE	47	I-NP	I-ORG
+
+Slider	false	{"stem": [], "anas": []}	[]	Slider	[/N][Nom]	PROPN	Case=Nom|Number=Sing	47	NE	48	I-NP	I-ORG
+
+Serious	false	{"stem": [], "anas": []}	[]	Serious	[/N][Nom]	PROPN	Case=Nom|Number=Sing	48	NE	49	I-NP	I-ORG
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	49	NE	50	I-NP	I-ORG
+
+Settings	false	{"stem": [], "anas": []}	[]	Settings	[/N][Nom]	PROPN	Case=Nom|Number=Sing	50	NE	51	I-NP	I-ORG
+
+SysInfo	false	{"stem": [], "anas": []}	[]	SysInfo	[/N]	PROPN	Case=Nom|Number=Sing	51	NE	52	I-NP	I-ORG
+
+ThemeSwitch	false	{"stem": [], "anas": []}	[]	ThemeSwitch	[/N][Nom]	PROPN	Case=Nom|Number=Sing	52	NE	53	I-NP	I-ORG
+
+Pricing	false	{"stem": [], "anas": []}	[]	Pricing	[/N]	PROPN	Case=Nom|Number=Sing	53	ATT	54	I-NP	I-ORG
+
+Support	false	{"stem": [], "anas": []}	[{"lemma": "support", "tag": "[/N][Nom]", "morphana": "support[/N]=support+[Nom]=", "readable": "support[/N] + [Nom]", "twolevel": "s:s u:u p:p p:p o:o r:r t:t :[/N] :[Nom]"}]	support	[/N][Nom]	NOUN	Case=Nom|Number=Sing	54	ATT	56	I-NP	I-ORG
+
+Priority	false	{"stem": [], "anas": []}	[]	Priority	[/N]	PROPN	Case=Nom|Number=Sing	55	ATT	56	I-NP	I-ORG
+
+Support	false	{"stem": [], "anas": []}	[{"lemma": "support", "tag": "[/N][Nom]", "morphana": "support[/N]=support+[Nom]=", "readable": "support[/N] + [Nom]", "twolevel": "s:s u:u p:p p:p o:o r:r t:t :[/N] :[Nom]"}]	support	[/N][Nom]	NOUN	Case=Nom|Number=Sing	56	COORD	41	I-NP	I-ORG
+
+Customization	false	{"stem": [], "anas": []}	[]	Customization	[/N][Nom]	PROPN	Case=Nom|Number=Sing	57	NE	58	I-NP	I-ORG
+
+Documentation	false	{"stem": [], "anas": []}	[]	Documentation	[/N][Nom]	PROPN	Case=Nom|Number=Sing	58	NE	59	I-NP	I-ORG
+
+Forum	false	{"stem": [], "anas": []}	[{"lemma": "Forum", "tag": "[/N][Nom]", "morphana": "Forum[/N]=Forum+[Nom]=", "readable": "Forum[/N] + [Nom]", "twolevel": "F:F o:o r:r u:u m:m :[/N] :[Nom]"}]	Forum	[/N][Nom]	PROPN	Case=Nom|Number=Sing	59	ATT	60	I-NP	I-ORG
+
+Blog	true	{"stem": ["blog"], "anas": [[["st", "blog"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "blog", "tag": "[/N][Nom]", "morphana": "blog[/N]=blog+[Nom]=", "readable": "blog[/N] + [Nom]", "twolevel": "b:b l:l o:o g:g :[/N] :[Nom]"}]	blog	[/N][Nom]	NOUN	Case=Nom|Number=Sing	60	ATT	61	I-NP	I-ORG
+
+Account	false	{"stem": [], "anas": []}	[{"lemma": "account", "tag": "[/N][Nom]", "morphana": "account[/N]=account+[Nom]=", "readable": "account[/N] + [Nom]", "twolevel": "a:a c:c c:c o:o u:u n:n t:t :[/N] :[Nom]"}]	account	[/N][Nom]	NOUN	Case=Nom|Number=Sing	61	COORD	56	E-NP	E-ORG
+
+
+
+E-mail	true	{"stem": ["e-mail"], "anas": [[["st", "e-mail"], ["po", "noun"], ["ts", "NOM"], ["ph", "í-mél"]]]}	[{"lemma": "e-mail", "tag": "[/N][Nom]", "morphana": "e[/N|Ltr]=e+[Nom]=+-[Hyph:Hyph]=-+mail[/N]=mail+[Nom]=", "readable": "e[/N|Ltr] + [Nom] + -[Hyph:Hyph] + mail[/N] + [Nom]", "twolevel": "e:e :[/N|Ltr] :[Nom] -:- :[Hyph:Hyph] m:m a:a i:i l:l :[/N] :[Nom]"}, {"lemma": "e-mail", "tag": "[/N][Nom]", "morphana": "e-mail[/N]=e-mail+[Nom]=", "readable": "e-mail[/N] + [Nom]", "twolevel": "e:e -:- m:m a:a i:i l:l :[/N] :[Nom]"}]	e-mail	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+or	false	{"stem": [], "anas": []}	[]	or	[/N]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+username	false	{"stem": [], "anas": []}	[]	username	[/N]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+:	true	{"stem": [":"], "anas": [[["st", "", ""], ["po", "punct"]]]}	[{"lemma": ":", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	:	[Punct]	PUNCT	_	4	PUNCT	3	O	O
+
+
+
+Password	false	{"stem": [], "anas": []}	[{"lemma": "password", "tag": "[/N][Nom]", "morphana": "password[/N]=password+[Nom]=", "readable": "password[/N] + [Nom]", "twolevel": "p:p a:a s:s s:s w:w o:o r:r d:d :[/N] :[Nom]"}]	password	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+:	true	{"stem": [":"], "anas": [[["st", "", ""], ["po", "punct"]]]}	[{"lemma": ":", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	:	[Punct]	PUNCT	_	2	PUNCT	1	O	O
+
+
+
+Remember	false	{"stem": [], "anas": []}	[]	Remember	[/N]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Me	false	{"stem": [], "anas": []}	[{"lemma": "Me", "tag": "[/N][Nom]", "morphana": "Me[/N]=Me+[Nom]=", "readable": "Me[/N] + [Nom]", "twolevel": "M:M e:e :[/N] :[Nom]"}]	Me	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Create	false	{"stem": [], "anas": []}	[]	Create	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	O	O
+
+an	false	{"stem": [], "anas": []}	[{"lemma": "an", "tag": "[/X]", "morphana": "an[/X]=an", "readable": "an[/X]", "twolevel": "a:a n:n :[/X]"}]	an	[/X]	X	_	2	ATT	3	O	O
+
+account	false	{"stem": [], "anas": []}	[{"lemma": "account", "tag": "[/N][Nom]", "morphana": "account[/N]=account+[Nom]=", "readable": "account[/N] + [Nom]", "twolevel": "a:a c:c c:c o:o u:u n:n t:t :[/N] :[Nom]"}]	account	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	O	O
+
+
+
+Number	false	{"stem": [], "anas": []}	[{"lemma": "number", "tag": "[/N][Nom]", "morphana": "number[/N]=number+[Nom]=", "readable": "number[/N] + [Nom]", "twolevel": "n:n u:u m:m b:b e:e r:r :[/N] :[Nom]"}]	number	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	2	ROOT	0	I-NP	O
+
+items	false	{"stem": [], "anas": []}	[]	items	[/N]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+in	true	{"stem": ["in"], "anas": [[["st", "in"], ["po", "part"]]]}	[{"lemma": "in", "tag": "[/N][Nom]", "morphana": "in[/N|Unit|Abbr]=in+[Nom]=", "readable": "in[/N|Unit|Abbr] + [Nom]", "twolevel": "i:i n:n :[/N|Unit|Abbr] :[Nom]"}]	in	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+cart	false	{"stem": [], "anas": []}	[{"lemma": "car", "tag": "[/N][Acc]", "morphana": "car[/N]=car+t[Acc]=t", "readable": "car[/N] + t[Acc]", "twolevel": "c:c a:a r:r :[/N] t:t :[Acc]"}]	car	[/N][Acc]	NOUN	Case=Acc|Number=Sing	5	OBJ	2	E-NP	O
+
+:	true	{"stem": [":"], "anas": [[["st", "", ""], ["po", "punct"]]]}	[{"lemma": ":", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	:	[Punct]	PUNCT	_	6	PUNCT	2	O	O
+
+0	true	{"stem": ["0"], "anas": [[["st", "0"], ["po", "adj_num"], ["ts", "NOM"], ["al", "0-vá"], ["al", "0-val"], ["al", "0-s"], ["al", "0-i"], ["al", "0-"], ["al", "0-"], ["al", "00-"]]]}	[{"lemma": "0", "tag": "[/Num|Digit][Nom]", "morphana": "0[/Num|Digit]=0+[Nom]=", "readable": "0[/Num|Digit] + [Nom]", "twolevel": "0:0 :[/Num|Digit] :[Nom]"}]	0	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	7	ROOT	0	O	O
+
+
+
+Your	false	{"stem": [], "anas": []}	[]	your	[/N]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+cart	false	{"stem": [], "anas": []}	[{"lemma": "car", "tag": "[/N][Acc]", "morphana": "car[/N]=car+t[Acc]=t", "readable": "car[/N] + t[Acc]", "twolevel": "c:c a:a r:r :[/N] t:t :[Acc]"}]	car	[/N][Acc]	NOUN	Case=Acc|Number=Sing	2	OBJ	4	E-NP	O
+
+is	true	{"stem": ["is"], "anas": [[["st", "is"], ["po", "con"]]]}	[{"lemma": "is", "tag": "[/Adv]", "morphana": "is[/Adv]=is", "readable": "is[/Adv]", "twolevel": "i:i s:s :[/Adv]"}]	is	[/Adv]	ADV	_	3	MODE	2	O	O
+
+empty	false	{"stem": [], "anas": []}	[]	empty	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ROOT	0	1-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	5	PUNCT	0	O	O
+
+
+
+Total	false	{"stem": [], "anas": []}	[{"lemma": "Total", "tag": "[/N][Nom]", "morphana": "Total[/N]=Total+[Nom]=", "readable": "Total[/N] + [Nom]", "twolevel": "T:T o:o t:t a:a l:l :[/N] :[Nom]"}]	Total	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+:	true	{"stem": [":"], "anas": [[["st", "", ""], ["po", "punct"]]]}	[{"lemma": ":", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	:	[Punct]	PUNCT	_	2	PUNCT	1	O	O
+
+$0.00	false	{"stem": [], "anas": []}	[]	$0.00	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	COORD	1	O	O
+
+
+
+Checkout	false	{"stem": [], "anas": []}	[]	Checkout	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	1-NP	O
+
+Create	false	{"stem": [], "anas": []}	[]	Create	[/N]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	O	O
+
+
+
+Responsive	false	{"stem": [], "anas": []}	[]	Responsive	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	1-NP	O
+
+&	false	{"stem": [], "anas": []}	[{"lemma": "&", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	&	[Punct]	PUNCT	_	2	ATT	3	O	O
+
+Fluid	true	{"stem": ["fluid"], "anas": [[["st", "fluid"], ["po", "adj"], ["ts", "NOM"]]]}	[{"lemma": "fluid", "tag": "[/Adj][Nom]", "morphana": "fluid[/Adj]=fluid+[Nom]=", "readable": "fluid[/Adj] + [Nom]", "twolevel": "f:f l:l u:u i:i d:d :[/Adj] :[Nom]"}]	fluid	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ROOT	0	O	O
+
+
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	1	ROOT	0	O	O
+
+Plugins	false	{"stem": [], "anas": []}	[]	Plugins	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	COORD	1	O	O
+
+
+
+Our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	SUBJ	5	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	4	I-NP	O
+
+are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	SUBJ	5	E-NP	O
+
+beautiful	false	{"stem": [], "anas": []}	[]	beautiful	[/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ROOT	0	O	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	6	PUNCT	5	O	O
+
+responsive	false	{"stem": [], "anas": []}	[]	responsive	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	O	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	8	COORD	5	O	O
+
+highly	false	{"stem": [], "anas": []}	[]	highly	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	B-NP	O
+
+customizable	false	{"stem": [], "anas": []}	[]	customizable	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	8	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	11	PUNCT	0	O	O
+
+
+
+They	false	{"stem": [], "anas": []}	[]	They	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+also	false	{"stem": [], "anas": []}	[]	also	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+have	false	{"stem": [], "anas": []}	[]	have	[/N]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	4	DET	5	B-NP	O
+
+wonderful	false	{"stem": [], "anas": []}	[]	wonderful	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+personality	false	{"stem": [], "anas": []}	[]	personality	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	3	E-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	7	CONJ	6	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	8	DET	10	B-NP	O
+
+great	false	{"stem": [], "anas": []}	[]	great	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+sense	false	{"stem": [], "anas": []}	[]	sense	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	ATT	11	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	11	ATT	12	I-NP	O
+
+humor	true	{"stem": ["humor"], "anas": [[["st", "humor"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "humor", "tag": "[/N][Nom]", "morphana": "humor[/N]=humor+[Nom]=", "readable": "humor[/N] + [Nom]", "twolevel": "h:h u:u m:m o:o r:r :[/N] :[Nom]"}]	humor	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	COORD	7	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	13	PUNCT	0	O	O
+
+
+
+Get	false	{"stem": [], "anas": []}	[]	G	[/N]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+know	false	{"stem": [], "anas": []}	[{"lemma": "know", "tag": "[/N][Nom]", "morphana": "know[/N]=know+[Nom]=", "readable": "know[/N] + [Nom]", "twolevel": "k:k n:n o:o w:w :[/N] :[Nom]"}]	know	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+them	false	{"stem": [], "anas": []}	[]	the	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	E-NP	O
+
+!	true	{"stem": ["!"], "anas": [[["st", "!"], ["po", "punct"]]]}	[{"lemma": "!", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	!	[Punct]	PUNCT	_	5	PUNCT	0	O	O
+
+
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+is	true	{"stem": ["is"], "anas": [[["st", "is"], ["po", "con"]]]}	[{"lemma": "is", "tag": "[/Adv]", "morphana": "is[/Adv]=is", "readable": "is[/Adv]", "twolevel": "i:i s:s :[/Adv]"}]	is	[/Adv]	ADV	_	2	MODE	1	O	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	B-NP	O
+
+latest	false	{"stem": [], "anas": []}	[]	latest	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	6	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+theme	false	{"stem": [], "anas": []}	[]	theem	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	COORD	1	E-NP	O
+
+
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	SUBJ	12	1-NP	O
+
+is	true	{"stem": ["is"], "anas": [[["st", "is"], ["po", "con"]]]}	[{"lemma": "is", "tag": "[/Adv]", "morphana": "is[/Adv]=is", "readable": "is[/Adv]", "twolevel": "i:i s:s :[/Adv]"}]	is	[/Adv]	ADV	_	2	MODE	12	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	3	DET	11	B-NP	O
+
+colorful	false	{"stem": [], "anas": []}	[]	colorf	[/Adj][_Manner/Adv]	ADJ	Case=Ess|Degree=Pos|Number=Sing	4	MODE	9	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	5	PUNCT	4	I-NP	O
+
+clean	false	{"stem": [], "anas": []}	[]	clean	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	7	COORD	4	I-NP	O
+
+beautifully	false	{"stem": [], "anas": []}	[]	beautifully	[/X]	X	_	8	COORD	7	I-NP	O
+
+animated	false	{"stem": [], "anas": []}	[]	animated	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	11	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	10	ATT	11	I-NP	O
+
+theme	false	{"stem": [], "anas": []}	[]	theme	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	E-NP	O
+
+with	false	{"stem": [], "anas": []}	[{"lemma": "with", "tag": "[/X]", "morphana": "with[/X]=with", "readable": "with[/X]", "twolevel": "w:w i:i t:t h:h :[/X]"}]	with	[/X]	X	_	12	ROOT	0	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	13	DET	15	B-NP	O
+
+great	false	{"stem": [], "anas": []}	[]	great	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	ATT	15	I-NP	O
+
+set	false	{"stem": [], "anas": []}	[{"lemma": "set", "tag": "[/N][Nom]", "morphana": "set[/N]=set+[Nom]=", "readable": "set[/N] + [Nom]", "twolevel": "s:s e:e t:t :[/N] :[Nom]"}]	set	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	ATT	16	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	16	ATT	17	I-NP	O
+
+features	false	{"stem": [], "anas": []}	[]	features	[/N][Nom]	NOUN	Case=Nom|Number=Sing	17	SUBJ	12	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	18	PUNCT	0	O	O
+
+
+
+Discover	false	{"stem": [], "anas": []}	[{"lemma": "discover", "tag": "[/N][Nom]", "morphana": "disc[/N]=disc+over[/N]=over+[Nom]=", "readable": "disc[/N] + over[/N] + [Nom]", "twolevel": "d:d i:i s:s c:c :[/N] o:o v:v e:e r:r :[/N] :[Nom]"}]	discover	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	B-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	NE	3	I-NP	E-ORG
+
+NEW	true	{"stem": ["New"], "anas": [[["st", "New"], ["po", "noun_prs"], ["ts", "NOM"], ["ph", "nyú"]], [["st", "New"], ["po", "noun_prs"], ["ph", "nyú"]]]}	[{"lemma": "New", "tag": "[/N][Nom]", "morphana": "New[/N]=New+[Nom]=", "readable": "New[/N] + [Nom]", "twolevel": "N:N e:e w:w :[/N] :[Nom]"}]	New	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	4	1-NP	O
+
+is	true	{"stem": ["is"], "anas": [[["st", "is"], ["po", "con"]]]}	[{"lemma": "is", "tag": "[/Adv]", "morphana": "is[/Adv]=is", "readable": "is[/Adv]", "twolevel": "i:i s:s :[/Adv]"}]	is	[/Adv]	ADV	_	2	MODE	1	O	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	B-NP	O
+
+shiniest	false	{"stem": [], "anas": []}	[]	shinies	[/N][Acc]	NOUN	Case=Acc|Number=Sing	4	ROOT	0	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+theme	false	{"stem": [], "anas": []}	[]	theem	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	OBL	4	E-NP	O
+
+
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	3	B-NP	O
+
+brings	false	{"stem": [], "anas": []}	[]	brings	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+many	false	{"stem": [], "anas": []}	[]	many	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	I-NP	O
+
+new	false	{"stem": [], "anas": []}	[]	New	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+shiny	false	{"stem": [], "anas": []}	[]	shiny	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+features	false	{"stem": [], "anas": []}	[]	features	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	3	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	7	PUNCT	6	I-NP	O
+
+full	false	{"stem": [], "anas": []}	[{"lemma": "full", "tag": "[/N][Nom]", "morphana": "full[/N]=full+[Nom]=", "readable": "full[/N] + [Nom]", "twolevel": "f:f u:u l:l l:l :[/N] :[Nom]"}]	full	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	10	I-NP	O
+
+Gutenberg	true	{"stem": ["Gutenberg"], "anas": [[["st", "Gutenberg"], ["po", "noun_prs"], ["ts", "NOM"]]]}	[{"lemma": "Gutenberg", "tag": "[/N][Nom]", "morphana": "Gutenberg[/N]=Gutenberg+[Nom]=", "readable": "Gutenberg[/N] + [Nom]", "twolevel": "G:G u:u t:t e:e n:n b:b e:e r:r g:g :[/N] :[Nom]"}]	Gutenberg	[/N][Nom]	PROPN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+support	false	{"stem": [], "anas": []}	[{"lemma": "support", "tag": "[/N][Nom]", "morphana": "support[/N]=support+[Nom]=", "readable": "support[/N] + [Nom]", "twolevel": "s:s u:u p:p p:p o:o r:r t:t :[/N] :[Nom]"}]	support	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	6	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	11	CONJ	10	I-NP	O
+
+an	false	{"stem": [], "anas": []}	[{"lemma": "an", "tag": "[/X]", "morphana": "an[/X]=an", "readable": "an[/X]", "twolevel": "a:a n:n :[/X]"}]	an	[/X]	X	_	12	ATT	13	I-NP	O
+
+improved	false	{"stem": [], "anas": []}	[]	improved	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	COORD	11	I-NP	O
+
+Customizer	false	{"stem": [], "anas": []}	[]	Customizer	[/N][Nom]	PROPN	Case=Nom|Number=Sing	14	ATT	15	I-NP	O
+
+experience	false	{"stem": [], "anas": []}	[]	experience	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	COORD	10	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	16	PUNCT	15	I-NP	O
+
+with	false	{"stem": [], "anas": []}	[{"lemma": "with", "tag": "[/X]", "morphana": "with[/X]=with", "readable": "with[/X]", "twolevel": "w:w i:i t:t h:h :[/X]"}]	with	[/X]	X	_	17	ATT	20	I-NP	O
+
+new	false	{"stem": [], "anas": []}	[]	New	[/N][Nom]	PROPN	Case=Nom|Number=Sing	18	NE	19	I-NP	O
+
+UI	false	{"stem": [], "anas": []}	[]	UI	[/N][Nom]	PROPN	Case=Nom|Number=Sing	19	ATT	20	I-NP	O
+
+elements	false	{"stem": [], "anas": []}	[]	elements	[/N][Nom]	NOUN	Case=Nom|Number=Sing	20	COORD	15	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	21	CONJ	20	I-NP	O
+
+lots	false	{"stem": [], "anas": []}	[]	lots	[/N][Nom]	NOUN	Case=Nom|Number=Sing	22	COORD	21	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	23	ATT	24	I-NP	O
+
+brand	false	{"stem": [], "anas": []}	[{"lemma": "brand", "tag": "[/N][Nom]", "morphana": "brand[/N]=brand+[Nom]=", "readable": "brand[/N] + [Nom]", "twolevel": "b:b r:r a:a n:n d:d :[/N] :[Nom]"}]	brand	[/N][Nom]	NOUN	Case=Nom|Number=Sing	24	ATT	26	I-NP	O
+
+new	false	{"stem": [], "anas": []}	[]	New	[/N][Nom]	PROPN	Case=Nom|Number=Sing	25	NE	26	I-NP	O
+
+options	false	{"stem": [], "anas": []}	[]	Options	[/N][Nom]	PROPN	Case=Nom|Number=Sing	26	COORD	20	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	27	PUNCT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N]	PROPN	Case=Nom|Number=Sing	1	NE	2	1-NP	B-ORG
+
+Plus	false	{"stem": [], "anas": []}	[{"lemma": "Plus", "tag": "[/N][Nom]", "morphana": "Plus[/N]=Plus+[Nom]=", "readable": "Plus[/N] + [Nom]", "twolevel": "P:P l:l u:u s:s :[/N] :[Nom]"}, {"lemma": "plus", "tag": "[/N][Nom]", "morphana": "plus[/N]=plus+[Nom]=", "readable": "plus[/N] + [Nom]", "twolevel": "p:p l:l u:u s:s :[/N] :[Nom]"}]	Plus	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	NE	3	1-NP	E-ORG
+
+HOT	true	{"stem": ["hot"], "anas": [[["st", "hot"], ["po", "part"]]]}	[{"lemma": "hot", "tag": "[/X]", "morphana": "hot[/X]=hot", "readable": "hot[/X]", "twolevel": "h:h o:o t:t :[/X]"}]	hot	[/X]	X	_	3	ROOT	0	O	O
+
+
+
+4365000+	false	{"stem": [], "anas": []}	[{"lemma": "4365000+", "tag": "[/N][Nom]", "morphana": "4[/Num|Digit]=4+3[/Num|Digit]=3+6[/Num|Digit]=6+5[/Num|Digit]=5+0[/Num|Digit]=0+0[/Num|Digit]=0+0[/Num|Digit]=0++[/N]=++[Nom]=", "readable": "4[/Num|Digit] + 3[/Num|Digit] + 6[/Num|Digit] + 5[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + +[/N] + [Nom]", "twolevel": "4:4 :[/Num|Digit] 3:3 :[/Num|Digit] 6:6 :[/Num|Digit] 5:5 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] +:+ :[/N] :[Nom]"}, {"lemma": "4365000+", "tag": "[/N][Nom]", "morphana": "4[/Num|Digit]=4+3[/Num|Digit]=3+6[/Num|Digit]=6+5[/Num|Digit]=5+000[/Num|Digit]=000++[/N|Acron]=++[Nom]=", "readable": "4[/Num|Digit] + 3[/Num|Digit] + 6[/Num|Digit] + 5[/Num|Digit] + 000[/Num|Digit] + +[/N|Acron] + [Nom]", "twolevel": "4:4 :[/Num|Digit] 3:3 :[/Num|Digit] 6:6 :[/Num|Digit] 5:5 :[/Num|Digit] 0:0 0:0 0:0 :[/Num|Digit] +:+ :[/N|Acron] :[Nom]"}]	4365000+	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+downloads	false	{"stem": [], "anas": []}	[]	Downloads	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Together	false	{"stem": [], "anas": []}	[]	Together	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	B-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	2	PUNCT	1	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	1	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	4	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	7	CONJ	6	I-NP	O
+
+plugins	false	{"stem": [], "anas": []}	[]	plugins	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	9	I-NP	O
+
+have	false	{"stem": [], "anas": []}	[]	have	[/N]	NOUN	Case=Nom|Number=Sing	9	COORD	7	I-NP	O
+
+been	false	{"stem": [], "anas": []}	[]	be	[/Adj][_Manner/Adv]	ADJ	Case=Ess|Degree=Pos|Number=Sing	10	MODE	15	I-NP	O
+
+downloaded	false	{"stem": [], "anas": []}	[]	downloaded	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+over	false	{"stem": [], "anas": []}	[{"lemma": "over", "tag": "[/N][Nom]", "morphana": "over[/N]=over+[Nom]=", "readable": "over[/N] + [Nom]", "twolevel": "o:o v:v e:e r:r :[/N] :[Nom]"}]	over	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+four	false	{"stem": [], "anas": []}	[{"lemma": "four", "tag": "[/N][Nom]", "morphana": "four[/N]=four+[Nom]=", "readable": "four[/N] + [Nom]", "twolevel": "f:f o:o u:u r:r :[/N] :[Nom]"}]	four	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	ATT	14	I-NP	O
+
+million	false	{"stem": [], "anas": []}	[]	million	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	ATT	15	I-NP	O
+
+times	false	{"stem": [], "anas": []}	[{"lemma": "times", "tag": "[/Adj][Nom]", "morphana": "Tim[/N]=tim+es[_Adjz:s/Adj]=es+[Nom]=", "readable": "Tim[/N]=tim + es[_Adjz:s/Adj] + [Nom]", "twolevel": "t:T i:i m:m :[/N] e:e s:s :[_Adjz:s/Adj] :[Nom]"}, {"lemma": "times", "tag": "[/N][Nom]", "morphana": "Tim[/N]=tim+es[_Nz:s/N]=es+[Nom]=", "readable": "Tim[/N]=tim + es[_Nz:s/N] + [Nom]", "twolevel": "t:T i:i m:m :[/N] e:e s:s :[_Nz:s/N] :[Nom]"}]	times	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	15	MODE	4	E-NP	O
+
+!	true	{"stem": ["!"], "anas": [[["st", "!"], ["po", "punct"]]]}	[{"lemma": "!", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	!	[Punct]	PUNCT	_	16	PUNCT	0	O	O
+
+
+
+That's	false	{"stem": [], "anas": []}	[]	That's	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	SUBJ	2	1-NP	O
+
+gotta	false	{"stem": [], "anas": []}	[]	g	[/V][Pst.Def.3Sg]	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ROOT	0	O	O
+
+mean	false	{"stem": [], "anas": []}	[]	mean	[/N][Poss.3Sg][Ine]	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	OBL	2	1-NP	O
+
+something	false	{"stem": [], "anas": []}	[]	something	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	SUBJ	2	1-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	5	PUNCT	4	O	O
+
+right	false	{"stem": [], "anas": []}	[{"lemma": "right", "tag": "[/X]", "morphana": "right[/X]=right", "readable": "right[/X]", "twolevel": "r:r i:i g:g h:h t:t :[/X]"}]	right	[/X]	X	_	6	COORD	4	O	O
+
+?	true	{"stem": ["?"], "anas": [[["st", "?"], ["po", "punct"]]]}	[{"lemma": "?", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	?	[Punct]	PUNCT	_	7	PUNCT	0	O	O
+
+
+
+231000+	false	{"stem": [], "anas": []}	[{"lemma": "231000+", "tag": "[/N][Nom]", "morphana": "2[/Num|Digit]=2+3[/Num|Digit]=3+1[/Num|Digit]=1+0[/Num|Digit]=0+0[/Num|Digit]=0+0[/Num|Digit]=0++[/N]=++[Nom]=", "readable": "2[/Num|Digit] + 3[/Num|Digit] + 1[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + +[/N] + [Nom]", "twolevel": "2:2 :[/Num|Digit] 3:3 :[/Num|Digit] 1:1 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] +:+ :[/N] :[Nom]"}, {"lemma": "231000+", "tag": "[/N][Nom]", "morphana": "2[/Num|Digit]=2+3[/Num|Digit]=3+1[/Num|Digit]=1+000[/Num|Digit]=000++[/N|Acron]=++[Nom]=", "readable": "2[/Num|Digit] + 3[/Num|Digit] + 1[/Num|Digit] + 000[/Num|Digit] + +[/N|Acron] + [Nom]", "twolevel": "2:2 :[/Num|Digit] 3:3 :[/Num|Digit] 1:1 :[/Num|Digit] 0:0 0:0 0:0 :[/Num|Digit] +:+ :[/N|Acron] :[Nom]"}]	231000+	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+active	false	{"stem": [], "anas": []}	[{"lemma": "active", "tag": "[/N][Nom]", "morphana": "active[/N]=active+[Nom]=", "readable": "active[/N] + [Nom]", "twolevel": "a:a c:c t:t i:i v:v e:e :[/N] :[Nom]"}]	active	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+users	false	{"stem": [], "anas": []}	[{"lemma": "users", "tag": "[/N][Nom]", "morphana": "users[/N]=users+[Nom]=", "readable": "users[/N] + [Nom]", "twolevel": "u:u s:s e:e r:r s:s :[/N] :[Nom]"}]	users	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+
+
+At	false	{"stem": [], "anas": []}	[{"lemma": "At", "tag": "[/N][Nom]", "morphana": "At[/N|Abbr|ChemSym]=At+[Nom]=", "readable": "At[/N|Abbr|ChemSym] + [Nom]", "twolevel": "A:A t:t :[/N|Abbr|ChemSym] :[Nom]"}, {"lemma": "at", "tag": "[/X]", "morphana": "at[/X]=at", "readable": "at[/X]", "twolevel": "a:a t:t :[/X]"}]	at	[/X]	X	_	1	ATT	2	O	O
+
+this	false	{"stem": [], "anas": []}	[{"lemma": "this", "tag": "[/X]", "morphana": "this[/X]=this", "readable": "this[/X]", "twolevel": "t:t h:h i:i s:s :[/X]"}]	this	[/X]	X	_	2	ATT	3	O	O
+
+moment	false	{"stem": [], "anas": []}	[]	moment	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	B-NP	O
+
+over	false	{"stem": [], "anas": []}	[{"lemma": "over", "tag": "[/N][Nom]", "morphana": "over[/N]=over+[Nom]=", "readable": "over[/N] + [Nom]", "twolevel": "o:o v:v e:e r:r :[/N] :[Nom]"}]	over	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	6	I-NP	O
+
+200.000	true	{"stem": [], "anas": []}	[{"lemma": "200.000", "tag": "[/Num|Digit][Nom]", "morphana": "2[/Num|Digit]=2+0[/Num|Digit]=0+0[/Num|Digit]=0+.[/Num|Digit]=.+0[/Num|Digit]=0+0[/Num|Digit]=0+0[/Num|Digit]=0+[Nom]=", "readable": "2[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + .[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + 0[/Num|Digit] + [Nom]", "twolevel": "2:2 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] .:. :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] 0:0 :[/Num|Digit] :[Nom]"}, {"lemma": "200.000", "tag": "[/Num|Digit][Nom]", "morphana": "2[/Num|Digit]=2+00.000[/Num|Digit]=00.000+[Nom]=", "readable": "2[/Num|Digit] + 00.000[/Num|Digit] + [Nom]", "twolevel": "2:2 :[/Num|Digit] 0:0 0:0 .:. 0:0 0:0 0:0 :[/Num|Digit] :[Nom]"}]	200.000	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	5	ATT	6	I-NP	O
+
+people	false	{"stem": [], "anas": []}	[]	peopl	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	SUBJ	10	I-NP	O
+
+are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+using	false	{"stem": [], "anas": []}	[{"lemma": "using", "tag": "[/N][Nom]", "morphana": "using[/N]=using+[Nom]=", "readable": "using[/N] + [Nom]", "twolevel": "u:u s:s i:i n:n g:g :[/N] :[Nom]"}]	using	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	9	I-NP	O
+
+one	false	{"stem": [], "anas": []}	[{"lemma": "one", "tag": "[/N][Nom]", "morphana": "one[/N]=one+[Nom]=", "readable": "one[/N] + [Nom]", "twolevel": "o:o n:n e:e :[/N] :[Nom]"}]	one	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	10	ATT	11	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	13	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	ROOT	0	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	14	CONJ	13	I-NP	O
+
+plugins	false	{"stem": [], "anas": []}	[]	plugins	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	COORD	14	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	16	PUNCT	0	O	O
+
+
+
+We've	false	{"stem": [], "anas": []}	[]	We've	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	SUBJ	2	1-NP	O
+
+met	false	{"stem": [], "anas": []}	[]	me	[/V][Pst.NDef.3Sg]	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ROOT	0	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	3	DET	4	B-NP	O
+
+few	false	{"stem": [], "anas": []}	[]	few	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	5	ATT	6	O	O
+
+them	false	{"stem": [], "anas": []}	[]	the	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	SUBJ	2	O	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	7	CONJ	6	O	O
+
+they're	false	{"stem": [], "anas": []}	[]	they're	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	7	B-NP	O
+
+really	false	{"stem": [], "anas": []}	[]	really	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+cool	false	{"stem": [], "anas": []}	[{"lemma": "cool", "tag": "[/X]", "morphana": "cool[/X]=cool", "readable": "cool[/X]", "twolevel": "c:c o:o o:o l:l :[/X]"}]	cool	[/X]	X	_	10	ATT	11	I-NP	O
+
+people	false	{"stem": [], "anas": []}	[]	people	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	COORD	6	E-NP	O
+
+!	true	{"stem": ["!"], "anas": [[["st", "!"], ["po", "punct"]]]}	[{"lemma": "!", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	!	[Punct]	PUNCT	_	12	PUNCT	0	O	O
+
+
+
+Most	true	{"stem": ["most"], "anas": [[["st", "most"], ["po", "adv"]], [["st", "most"], ["po", "con"]]]}	[{"lemma": "most", "tag": "[/Adv]", "morphana": "most[/Adv]=most", "readable": "most[/Adv]", "twolevel": "m:m o:o s:s t:t :[/Adv]"}]	most	[/Adv]	ADV	_	1	TLOCY	2	O	O
+
+popular	false	{"stem": [], "anas": []}	[]	Popular	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	O	O
+
+
+
+With	false	{"stem": [], "anas": []}	[{"lemma": "with", "tag": "[/X]", "morphana": "with[/X]=with", "readable": "with[/X]", "twolevel": "w:w i:i t:t h:h :[/X]"}]	with	[/X]	X	_	1	ATT	2	O	O
+
+an	false	{"stem": [], "anas": []}	[{"lemma": "an", "tag": "[/X]", "morphana": "an[/X]=an", "readable": "an[/X]", "twolevel": "a:a n:n :[/X]"}]	an	[/X]	X	_	2	ATT	3	O	O
+
+average	false	{"stem": [], "anas": []}	[]	average	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	B-NP	O
+
+rating	false	{"stem": [], "anas": []}	[]	rating	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	5	ROOT	0	O	O
+
+4.66	true	{"stem": ["6"], "anas": [[["4.6"]], [["st", "6"], ["po", "adj_num"], ["ts", "NOM"], ["al", "6-tá"], ["al", "6-tal"], ["al", "6-os"], ["al", "6-od"], ["al", "6-i"], ["al", "6-i"], ["al", "6-an"], ["al", "6-a"], ["al", "6-"], ["al", "6-"]]]}	[{"lemma": "4.66", "tag": "[/Num|Digit][Nom]", "morphana": "4[/Num|Digit]=4+.[/Num|Digit]=.+6[/Num|Digit]=6+6[/Num|Digit]=6+[Nom]=", "readable": "4[/Num|Digit] + .[/Num|Digit] + 6[/Num|Digit] + 6[/Num|Digit] + [Nom]", "twolevel": "4:4 :[/Num|Digit] .:. :[/Num|Digit] 6:6 :[/Num|Digit] 6:6 :[/Num|Digit] :[Nom]"}]	4.66	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	6	ATT	7	O	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	7	ATT	8	O	O
+
+5	true	{"stem": ["5"], "anas": [[["st", "5"], ["po", "adj_num"], ["ts", "NOM"], ["al", "5-ös"], ["al", "5-Ăśd"], ["al", "5-té"], ["al", "5-tel"], ["al", "5-i"], ["al", "5-i"], ["al", "5-en"], ["al", "5-e"], ["al", "5-"], ["al", "5-"]]]}	[{"lemma": "5", "tag": "[/Num|Digit][Nom]", "morphana": "5[/Num|Digit]=5+[Nom]=", "readable": "5[/Num|Digit] + [Nom]", "twolevel": "5:5 :[/Num|Digit] :[Nom]"}]	5	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	8	ATT	9	O	O
+
+from	false	{"stem": [], "anas": []}	[{"lemma": "from", "tag": "[/X]", "morphana": "from[/X]=from", "readable": "from[/X]", "twolevel": "f:f r:r o:o m:m :[/X]"}]	from	[/X]	X	_	9	ATT	10	O	O
+
+424	true	{"stem": ["4"], "anas": [[["42"]], [["st", "4"], ["po", "adj_num"], ["ts", "NOM"], ["al", "4-i"], ["al", "4-i"], ["al", "4-gyé"], ["al", "4-gyel"], ["al", "4-es"], ["al", "4-en"], ["al", "4-ed"], ["al", "4-e"], ["al", "4-"], ["al", "4-"]]]}	[{"lemma": "424", "tag": "[/Num|Digit][Nom]", "morphana": "4[/Num|Digit]=4+2[/Num|Digit]=2+4[/Num|Digit]=4+[Nom]=", "readable": "4[/Num|Digit] + 2[/Num|Digit] + 4[/Num|Digit] + [Nom]", "twolevel": "4:4 :[/Num|Digit] 2:2 :[/Num|Digit] 4:4 :[/Num|Digit] :[Nom]"}]	424	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	10	ATT	11	B-NP	O
+
+reviews	false	{"stem": [], "anas": []}	[]	reviews	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	COORD	5	E-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	12	PUNCT	11	O	O
+
+all	false	{"stem": [], "anas": []}	[{"lemma": "all", "tag": "[/X]", "morphana": "all[/X]=all", "readable": "all[/X]", "twolevel": "a:a l:l l:l :[/X]"}]	all	[/X]	X	_	13	ATT	14	O	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	14	ATT	15	O	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	ATT	16	B-NP	O
+
+creations	false	{"stem": [], "anas": []}	[]	creations	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	COORD	11	I-NP	O
+
+are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	17	ATT	18	I-NP	O
+
+constantly	false	{"stem": [], "anas": []}	[]	constantly	[/N][Nom]	NOUN	Case=Nom|Number=Sing	18	COORD	16	E-NP	O
+
+at	false	{"stem": [], "anas": []}	[{"lemma": "at", "tag": "[/X]", "morphana": "at[/X]=at", "readable": "at[/X]", "twolevel": "a:a t:t :[/X]"}]	at	[/X]	X	_	19	ATT	20	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	20	ATT	21	O	O
+
+top	true	{"stem": ["top"], "anas": [[["st", "top"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "top", "tag": "[/N][Nom]", "morphana": "top[/N]=top+[Nom]=", "readable": "top[/N] + [Nom]", "twolevel": "t:t o:o p:p :[/N] :[Nom]"}, {"lemma": "top", "tag": "[/V][Prs.NDef.3Sg]", "morphana": "top[/V]=top+[Prs.NDef.3Sg]=", "readable": "top[/V] + [Prs.NDef.3Sg]", "twolevel": "t:t o:o p:p :[/V] :[Prs.NDef.3Sg]"}]	top	[/N][Nom]	NOUN	Case=Nom|Number=Sing	21	COORD	18	O	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	22	ATT	23	O	O
+
+WordPress.org	false	{"stem": [], "anas": []}	[]	WordPress.org	[/N]	PROPN	Case=Nom|Number=Sing	23	OBL	21	1-NP	O
+
+'	true	{"stem": ["'"], "anas": [[["st", "'"], ["po", "punct"]]]}	[{"lemma": "'", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	'	[Punct]	PUNCT	_	24	PUNCT	25	O	O
+
+s	true	{"stem": ["s"], "anas": [[["st", "s"], ["po", "noun"], ["ts", "NOM"], ["al", "s-sé"], ["al", "s-sel"], ["al", "s-ot"], ["al", "s-má"], ["al", "s-mal"], ["al", "s-et"], ["al", "s-"], ["ph", "satöbbi"]], [["st", "s"], ["po", "con"], ["al", "s-sé"], ["al", "s-sel"], ["al", "s-ot"], ["al", "s-má"], ["al", "s-mal"], ["al", "s-et"], ["al", "s-"], ["ph", "satöbbi"]]]}	[{"lemma": "s", "tag": "[/Cnj]", "morphana": "s[/Cnj]=s", "readable": "s[/Cnj]", "twolevel": "s:s :[/Cnj]"}, {"lemma": "s", "tag": "[/N][Nom]", "morphana": "s[/N|Ltr]=s+[Nom]=", "readable": "s[/N|Ltr] + [Nom]", "twolevel": "s:s :[/N|Ltr] :[Nom]"}, {"lemma": "s", "tag": "[/N][Nom]", "morphana": "s[/N|Unit|Abbr]=s+[Nom]=", "readable": "s[/N|Unit|Abbr] + [Nom]", "twolevel": "s:s :[/N|Unit|Abbr] :[Nom]"}]	s	[/Cnj]	CONJ	_	25	CONJ	5	O	O
+
+most	true	{"stem": ["most"], "anas": [[["st", "most"], ["po", "adv"]], [["st", "most"], ["po", "con"]]]}	[{"lemma": "most", "tag": "[/Adv]", "morphana": "most[/Adv]=most", "readable": "most[/Adv]", "twolevel": "m:m o:o s:s t:t :[/Adv]"}]	most	[/Adv]	ADV	_	26	TLOCY	27	O	O
+
+popular	false	{"stem": [], "anas": []}	[]	popular	[/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	COORD	25	O	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	28	PUNCT	0	O	O
+
+
+
+Our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+selection	false	{"stem": [], "anas": []}	[]	selection	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	3	ROOT	0	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	NE	5	I-NP	O
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	SUBJ	3	E-NP	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+believe	false	{"stem": [], "anas": []}	[]	believe	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+in	true	{"stem": ["in"], "anas": [[["st", "in"], ["po", "part"]]]}	[{"lemma": "in", "tag": "[/N][Nom]", "morphana": "in[/N|Unit|Abbr]=in+[Nom]=", "readable": "in[/N|Unit|Abbr] + [Nom]", "twolevel": "i:i n:n :[/N|Unit|Abbr] :[Nom]"}]	in	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+quality	false	{"stem": [], "anas": []}	[{"lemma": "quality", "tag": "[/N][Nom]", "morphana": "quality[/N]=quality+[Nom]=", "readable": "quality[/N] + [Nom]", "twolevel": "q:q u:u a:a l:l i:i t:t y:y :[/N] :[Nom]"}]	quality	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	5	CONJ	4	I-NP	O
+
+versatility	false	{"stem": [], "anas": []}	[]	versatility	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	5	I-NP	O
+
+over	false	{"stem": [], "anas": []}	[{"lemma": "over", "tag": "[/N][Nom]", "morphana": "over[/N]=over+[Nom]=", "readable": "over[/N] + [Nom]", "twolevel": "o:o v:v e:e r:r :[/N] :[Nom]"}]	over	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+quantity	false	{"stem": [], "anas": []}	[]	quantity	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	4	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	9	CONJ	8	I-NP	O
+
+mediocrity	false	{"stem": [], "anas": []}	[]	mediocrity	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	9	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	11	PUNCT	2	I-NP	O
+
+so	false	{"stem": [], "anas": []}	[]	So	[/N][Nom]	PROPN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+we	false	{"stem": [], "anas": []}	[]	w	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	SUBJ	14	E-NP	O
+
+put	false	{"stem": [], "anas": []}	[]	put	[/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	COORD	2	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	15	DET	16	B-NP	O
+
+lot	false	{"stem": [], "anas": []}	[]	l	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	SUBJ	14	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	17	ATT	18	O	O
+
+time	false	{"stem": [], "anas": []}	[{"lemma": "time", "tag": "[/N][Nom]", "morphana": "time[/N]=time+[Nom]=", "readable": "time[/N] + [Nom]", "twolevel": "t:t i:i m:m e:e :[/N] :[Nom]"}]	time	[/N][Nom]	NOUN	Case=Nom|Number=Sing	18	COORD	16	O	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	19	CONJ	18	O	O
+
+effort	false	{"stem": [], "anas": []}	[]	effort	[/N][Nom]	NOUN	Case=Nom|Number=Sing	20	COORD	19	O	O
+
+into	false	{"stem": [], "anas": []}	[]	into	[/X]	X	_	21	ATT	22	O	O
+
+each	false	{"stem": [], "anas": []}	[]	each	[/N][Nom]	NOUN	Case=Nom|Number=Sing	22	OBL	25	B-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	23	CONJ	22	I-NP	O
+
+every	false	{"stem": [], "anas": []}	[]	every	[/N][Nom]	NOUN	Case=Nom|Number=Sing	24	COORD	23	I-NP	O
+
+one	false	{"stem": [], "anas": []}	[{"lemma": "one", "tag": "[/N][Nom]", "morphana": "one[/N]=one+[Nom]=", "readable": "one[/N] + [Nom]", "twolevel": "o:o n:n e:e :[/N] :[Nom]"}]	one	[/N][Nom]	NOUN	Case=Nom|Number=Sing	25	COORD	18	I-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	26	ATT	27	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	27	COORD	25	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	28	ATT	29	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	29	COORD	27	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	30	PUNCT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Esotera	false	{"stem": [], "anas": []}	[]	Esotera	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Roseta	false	{"stem": [], "anas": []}	[]	Roseta	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Kahuna	false	{"stem": [], "anas": []}	[]	Kahuna	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Anima	false	{"stem": [], "anas": []}	[]	Anima	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Septera	false	{"stem": [], "anas": []}	[]	Septera	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Theme	false	{"stem": [], "anas": []}	[]	Theme	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Fluida	false	{"stem": [], "anas": []}	[]	Fluida	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+|	false	{"stem": [], "anas": []}	[]	|	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	E-NP	O
+
+$49	false	{"stem": [], "anas": []}	[]	$49	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	ROOT	0	O	O
+
+
+
+View	false	{"stem": [], "anas": []}	[{"lemma": "View", "tag": "[/N][Nom]", "morphana": "View[/N]=View+[Nom]=", "readable": "View[/N] + [Nom]", "twolevel": "V:V i:i e:e w:w :[/N] :[Nom]"}]	View	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	O	O
+
+All	false	{"stem": [], "anas": []}	[{"lemma": "all", "tag": "[/X]", "morphana": "all[/X]=all", "readable": "all[/X]", "twolevel": "a:a l:l l:l :[/X]"}]	all	[/X]	X	_	2	ROOT	0	O	O
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	ATT	2	O	O
+
+
+
+Why	false	{"stem": [], "anas": []}	[]	Why	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+choose	false	{"stem": [], "anas": []}	[]	choos	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	ROOT	0	I-NP	O
+
+Cryout	false	{"stem": [], "anas": []}	[]	Cryout	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	NE	4	I-NP	B-PER
+
+Creations	false	{"stem": [], "anas": []}	[]	Creations	[/N]	PROPN	Case=Nom|Number=Sing	4	ATT	2	E-NP	E-PER
+
+?	true	{"stem": ["?"], "anas": [[["st", "?"], ["po", "punct"]]]}	[{"lemma": "?", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	?	[Punct]	PUNCT	_	5	PUNCT	0	O	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+like	false	{"stem": [], "anas": []}	[]	like	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+believe	false	{"stem": [], "anas": []}	[]	believe	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	E-NP	O
+
+that	false	{"stem": [], "anas": []}	[{"lemma": "that", "tag": "[/X]", "morphana": "that[/X]=that", "readable": "that[/X]", "twolevel": "t:t h:h a:a t:t :[/X]"}]	that	[/X]	X	_	5	ATT	6	O	O
+
+coding	false	{"stem": [], "anas": []}	[]	coding	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	OBL	10	O	O
+
+with	false	{"stem": [], "anas": []}	[{"lemma": "with", "tag": "[/X]", "morphana": "with[/X]=with", "readable": "with[/X]", "twolevel": "w:w i:i t:t h:h :[/X]"}]	with	[/X]	X	_	7	CONJ	6	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	8	DET	9	B-NP	O
+
+smile	false	{"stem": [], "anas": []}	[]	smile	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	SUBJ	7	I-NP	O
+
+helps	false	{"stem": [], "anas": []}	[]	helps	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	4	E-NP	O
+
+keep	false	{"stem": [], "anas": []}	[{"lemma": "keep", "tag": "[/X]", "morphana": "keep[/X]=keep", "readable": "keep[/X]", "twolevel": "k:k e:e e:e p:p :[/X]"}]	keep	[/X]	X	_	11	ATT	12	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	12	ATT	13	O	O
+
+bugs	false	{"stem": [], "anas": []}	[]	bugs	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	ATT	14	B-NP	O
+
+away	false	{"stem": [], "anas": []}	[]	away	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	COORD	10	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	15	PUNCT	0	O	O
+
+
+
+Small	false	{"stem": [], "anas": []}	[{"lemma": "Small", "tag": "[/N][Nom]", "morphana": "Small[/N]=Small+[Nom]=", "readable": "Small[/N] + [Nom]", "twolevel": "S:S m:m a:a l:l l:l :[/N] :[Nom]"}, {"lemma": "small", "tag": "[/N][Nom]", "morphana": "small[/N]=small+[Nom]=", "readable": "small[/N] + [Nom]", "twolevel": "s:s m:m a:a l:l l:l :[/N] :[Nom]"}]	Small	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+team	true	{"stem": ["team"], "anas": [[["st", "team"], ["po", "noun"], ["ts", "NOM"], ["ph", "tím"]]]}	[{"lemma": "team", "tag": "[/N][Nom]", "morphana": "team[/N]=team+[Nom]=", "readable": "team[/N] + [Nom]", "twolevel": "t:t e:e a:a m:m :[/N] :[Nom]"}]	team	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+It's	false	{"stem": [], "anas": []}	[]	It's	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+just	false	{"stem": [], "anas": []}	[{"lemma": "just", "tag": "[/N][Nom]", "morphana": "just[/N]=just+[Nom]=", "readable": "just[/N] + [Nom]", "twolevel": "j:j u:u s:s t:t :[/N] :[Nom]"}]	just	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+us	false	{"stem": [], "anas": []}	[]	us	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	COORD	2	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	4	PUNCT	3	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	5	ATT	6	I-NP	O
+
+developers	false	{"stem": [], "anas": []}	[]	developers	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+–	true	{"stem": ["–"], "anas": [[["st", "–"], ["po", "punct"]]]}	[{"lemma": "", "tag": "[Hyph:Dash]", "morphana": "–[Hyph:Dash]=–", "readable": "–[Hyph:Dash]", "twolevel": "–:– :[Hyph:Dash]"}]		[Hyph:Dash]	X	_	7	ATT	9	I-NP	O
+
+we	false	{"stem": [], "anas": []}	[]	we	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	8	ATT	9	I-NP	O
+
+don't	false	{"stem": [], "anas": []}	[{"lemma": "don't", "tag": "[/N][Nom]", "morphana": "don't[/N]=don't+[Nom]=", "readable": "don't[/N] + [Nom]", "twolevel": "d:d o:o n:n ':' t:t :[/N] :[Nom]"}]	don't	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+get	false	{"stem": [], "anas": []}	[]	g	[/N][Acc]	NOUN	Case=Acc|Number=Sing	10	OBJ	11	I-NP	O
+
+middlemen	false	{"stem": [], "anas": []}	[]	middlem	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	COORD	3	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+handle	false	{"stem": [], "anas": []}	[]	handle	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	ATT	14	I-NP	O
+
+things	false	{"stem": [], "anas": []}	[]	things	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	COORD	11	I-NP	O
+
+for	false	{"stem": [], "anas": []}	[{"lemma": "for", "tag": "[/X]", "morphana": "for[/X]=for", "readable": "for[/X]", "twolevel": "f:f o:o r:r :[/X]"}]	for	[/X]	X	_	15	ATT	16	I-NP	O
+
+us	false	{"stem": [], "anas": []}	[]	us	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	COORD	14	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	17	PUNCT	0	O	O
+
+
+
+So	false	{"stem": [], "anas": []}	[{"lemma": "So", "tag": "[/N][Nom]", "morphana": "So[/N]=So+[Nom]=", "readable": "So[/N] + [Nom]", "twolevel": "S:S o:o :[/N] :[Nom]"}]	So	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+whenever	false	{"stem": [], "anas": []}	[]	whenever	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+you're	false	{"stem": [], "anas": []}	[]	you're	[/N][Poss.3Sg][Subl]	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	OBL	4	I-NP	O
+
+asking	false	{"stem": [], "anas": []}	[]	asking	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ROOT	0	E-NP	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	5	DET	6	B-NP	O
+
+question	false	{"stem": [], "anas": []}	[]	question	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+on	false	{"stem": [], "anas": []}	[{"lemma": "on", "tag": "[/X]", "morphana": "on[/X]=on", "readable": "on[/X]", "twolevel": "o:o n:n :[/X]"}]	on	[/X]	X	_	7	ATT	8	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	9	I-NP	O
+
+site	false	{"stem": [], "anas": []}	[{"lemma": "site", "tag": "[/N][Nom]", "morphana": "site[/N]=site+[Nom]=", "readable": "site[/N] + [Nom]", "twolevel": "s:s i:i t:t e:e :[/N] :[Nom]"}]	site	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	COORD	4	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	10	PUNCT	9	I-NP	O
+
+you're	false	{"stem": [], "anas": []}	[]	you're	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+getting	false	{"stem": [], "anas": []}	[]	getting	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	COORD	9	E-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	13	ATT	14	O	O
+
+answer	false	{"stem": [], "anas": []}	[]	answer	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	COORD	12	O	O
+
+straight	false	{"stem": [], "anas": []}	[]	straight	[/X]	X	_	15	ATT	16	O	O
+
+from	false	{"stem": [], "anas": []}	[{"lemma": "from", "tag": "[/X]", "morphana": "from[/X]=from", "readable": "from[/X]", "twolevel": "f:f r:r o:o m:m :[/X]"}]	from	[/X]	X	_	16	CONJ	14	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	17	ATT	18	O	O
+
+creators	false	{"stem": [], "anas": []}	[]	creators	[/N][Nom]	NOUN	Case=Nom|Number=Sing	18	SUBJ	16	1-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	19	PUNCT	0	O	O
+
+
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	1-NP	O
+
+experience	false	{"stem": [], "anas": []}	[]	experience	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	O	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+have	false	{"stem": [], "anas": []}	[]	have	[/N]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+it	false	{"stem": [], "anas": []}	[]	it	[/N]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	4	PUNCT	0	O	O
+
+
+
+Whether	false	{"stem": [], "anas": []}	[]	Whether	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+in	true	{"stem": ["in"], "anas": [[["st", "in"], ["po", "part"]]]}	[{"lemma": "in", "tag": "[/N][Nom]", "morphana": "in[/N|Unit|Abbr]=in+[Nom]=", "readable": "in[/N|Unit|Abbr] + [Nom]", "twolevel": "i:i n:n :[/N|Unit|Abbr] :[Nom]"}]	in	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	3	ATT	4	O	O
+
+form	false	{"stem": [], "anas": []}	[{"lemma": "form", "tag": "[/N][Nom]", "morphana": "form[/N]=form+[Nom]=", "readable": "form[/N] + [Nom]", "twolevel": "f:f o:o r:r m:m :[/N] :[Nom]"}]	form	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	O	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	5	???	0	O	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	6	ATT	9	B-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	7	ATT	9	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	8	PUNCT	4	I-NP	O
+
+plugins	false	{"stem": [], "anas": []}	[]	plugins	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	COORD	4	E-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	10	PUNCT	9	O	O
+
+custom	false	{"stem": [], "anas": []}	[]	cust	[/V][Prs.Def.1Sg]	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	ATT	12	O	O
+
+coding	false	{"stem": [], "anas": []}	[]	coding	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	COORD	9	B-NP	O
+
+or	false	{"stem": [], "anas": []}	[]	or	[/N]	NOUN	Case=Nom|Number=Sing	13	ATT	14	I-NP	O
+
+theme	false	{"stem": [], "anas": []}	[]	theem	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	ATT	15	I-NP	O
+
+customization	false	{"stem": [], "anas": []}	[]	customization	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	COORD	12	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	16	PUNCT	15	I-NP	O
+
+it's	false	{"stem": [], "anas": []}	[]	it's	[/N][Nom]	NOUN	Case=Nom|Number=Sing	17	COORD	15	E-NP	O
+
+what	false	{"stem": [], "anas": []}	[]	wik	[/V][_Mod/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	INF	20	O	O
+
+we've	false	{"stem": [], "anas": []}	[]	we'	[/V][_AdvPtcp/Adv]	ADV	VerbForm=Trans	19	MODE	20	O	O
+
+been	false	{"stem": [], "anas": []}	[]	been	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	20	ATT	21	B-NP	O
+
+doing	false	{"stem": [], "anas": []}	[]	doing	[/N][Nom]	NOUN	Case=Nom|Number=Sing	21	COORD	17	I-NP	O
+
+for	false	{"stem": [], "anas": []}	[{"lemma": "for", "tag": "[/X]", "morphana": "for[/X]=for", "readable": "for[/X]", "twolevel": "f:f o:o r:r :[/X]"}]	for	[/X]	X	_	22	ATT	23	I-NP	O
+
+quite	false	{"stem": [], "anas": []}	[]	quite	[/N][Nom]	NOUN	Case=Nom|Number=Sing	23	COORD	21	E-NP	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	24	DET	25	B-NP	O
+
+while	false	{"stem": [], "anas": []}	[]	while	[/N][Nom]	NOUN	Case=Nom|Number=Sing	25	ATT	26	I-NP	O
+
+now	false	{"stem": [], "anas": []}	[{"lemma": "now", "tag": "[/N][Nom]", "morphana": "now[/N]=now+[Nom]=", "readable": "now[/N] + [Nom]", "twolevel": "n:n o:o w:w :[/N] :[Nom]"}]	now	[/N][Nom]	NOUN	Case=Nom|Number=Sing	26	COORD	23	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	27	PUNCT	0	O	O
+
+
+
+And	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	1	ROOT	0	O	O
+
+we	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ATT	3	B-NP	O
+
+love	false	{"stem": [], "anas": []}	[{"lemma": "love", "tag": "[/N][Nom]", "morphana": "love[/N]=love+[Nom]=", "readable": "love[/N] + [Nom]", "twolevel": "l:l o:o v:v e:e :[/N] :[Nom]"}]	love	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+it	false	{"stem": [], "anas": []}	[]	it	[/N]	NOUN	Case=Nom|Number=Sing	4	COORD	1	E-NP	O
+
+!	true	{"stem": ["!"], "anas": [[["st", "!"], ["po", "punct"]]]}	[{"lemma": "!", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	!	[Punct]	PUNCT	_	5	PUNCT	0	O	O
+
+
+
+Long	false	{"stem": [], "anas": []}	[{"lemma": "Long", "tag": "[/N][Nom]", "morphana": "Long[/N]=Long+[Nom]=", "readable": "Long[/N] + [Nom]", "twolevel": "L:L o:o n:n g:g :[/N] :[Nom]"}, {"lemma": "Long", "tag": "[/X]", "morphana": "Long[/X]=Long", "readable": "Long[/X]", "twolevel": "L:L o:o n:n g:g :[/X]"}, {"lemma": "Long", "tag": "[/X]", "morphana": "Long[/X]=long", "readable": "Long[/X]=long", "twolevel": "l:L o:o n:n g:g :[/X]"}]	Long	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+lifecycles	false	{"stem": [], "anas": []}	[]	lifecycles	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+never	false	{"stem": [], "anas": []}	[]	Never	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ATT	4	I-NP	O
+
+retire	false	{"stem": [], "anas": []}	[]	retire	[/N]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ROOT	0	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	4	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	7	PUNCT	0	O	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+stand	true	{"stem": ["stand"], "anas": [[["st", "stand"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "stand", "tag": "[/N][Nom]", "morphana": "stand[/N]=stand+[Nom]=", "readable": "stand[/N] + [Nom]", "twolevel": "s:s t:t a:a n:n d:d :[/N] :[Nom]"}]	stand	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+behind	false	{"stem": [], "anas": []}	[]	behind	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+them	false	{"stem": [], "anas": []}	[]	the	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	E-NP	O
+
+all	false	{"stem": [], "anas": []}	[{"lemma": "all", "tag": "[/X]", "morphana": "all[/X]=all", "readable": "all[/X]", "twolevel": "a:a l:l l:l :[/X]"}]	all	[/X]	X	_	5	ATT	6	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	6	ATT	7	O	O
+
+way	false	{"stem": [], "anas": []}	[]	way	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	COORD	4	1-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	8	PUNCT	0	O	O
+
+
+
+They're	false	{"stem": [], "anas": []}	[]	They're	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+constantly	false	{"stem": [], "anas": []}	[]	constantly	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+updated	false	{"stem": [], "anas": []}	[]	updated	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	4	CONJ	2	I-NP	O
+
+upgraded	false	{"stem": [], "anas": []}	[]	upgraded	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	4	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	7	ATT	8	I-NP	O
+
+latest	false	{"stem": [], "anas": []}	[]	latest	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	2	I-NP	O
+
+design	true	{"stem": ["design"], "anas": [[["st", "design"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "design", "tag": "[/N][Nom]", "morphana": "design[/N]=design+[Nom]=", "readable": "design[/N] + [Nom]", "twolevel": "d:d e:e s:s i:i g:g n:n :[/N] :[Nom]"}]	design	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+trends	false	{"stem": [], "anas": []}	[]	trends	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	8	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	11	PUNCT	10	I-NP	O
+
+web	true	{"stem": ["web"], "anas": [[["st", "web"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "web", "tag": "[/N][Nom]", "morphana": "web[/N]=web+[Nom]=", "readable": "web[/N] + [Nom]", "twolevel": "w:w e:e b:b :[/N] :[Nom]"}]	web	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+standards	false	{"stem": [], "anas": []}	[{"lemma": "standards", "tag": "[/N][Nom]", "morphana": "standards[/N]=standards+[Nom]=", "readable": "standards[/N] + [Nom]", "twolevel": "s:s t:t a:a n:n d:d a:a r:r d:d s:s :[/N] :[Nom]"}]	standards	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	COORD	10	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	14	CONJ	13	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	15	ATT	16	I-NP	O
+
+versions	false	{"stem": [], "anas": []}	[]	versions	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	COORD	14	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	17	PUNCT	0	O	O
+
+
+
+No	true	{"stem": ["no"], "anas": [[["st", "no"], ["po", "sentint"], ["ph", "nodehát"]]]}	[{"lemma": "No", "tag": "[/N][Nom]", "morphana": "No[/N|Abbr|ChemSym]=No+[Nom]=", "readable": "No[/N|Abbr|ChemSym] + [Nom]", "twolevel": "N:N o:o :[/N|Abbr|ChemSym] :[Nom]"}, {"lemma": "no", "tag": "[/Inj-Utt]", "morphana": "no[/Inj-Utt]=no", "readable": "no[/Inj-Utt]", "twolevel": "n:n o:o :[/Inj-Utt]"}]	no	[/Inj-Utt]	INTJ	_	1	MODE	2	O	O
+
+shortcuts	false	{"stem": [], "anas": []}	[]	shortcut	[/V][Sbjv.NDef.2Sg]	VERB	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ROOT	0	O	O
+
+
+
+Our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	5	CONJ	4	I-NP	O
+
+plugins	false	{"stem": [], "anas": []}	[]	plugins	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	5	I-NP	O
+
+are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+live	false	{"stem": [], "anas": []}	[]	live	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	4	E-NP	O
+
+at	false	{"stem": [], "anas": []}	[{"lemma": "at", "tag": "[/X]", "morphana": "at[/X]=at", "readable": "at[/X]", "twolevel": "a:a t:t :[/X]"}]	at	[/X]	X	_	9	ATT	10	O	O
+
+WordPress.org	false	{"stem": [], "anas": []}	[]	WordPress.org	[/N][Nom]	PROPN	Case=Nom|Number=Sing	10	COORD	8	1-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	11	PUNCT	0	O	O
+
+
+
+That	false	{"stem": [], "anas": []}	[{"lemma": "that", "tag": "[/X]", "morphana": "that[/X]=that", "readable": "that[/X]", "twolevel": "t:t h:h a:a t:t :[/X]"}]	that	[/X]	X	_	1	ATT	2	O	O
+
+means	false	{"stem": [], "anas": []}	[]	means	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	B-NP	O
+
+we're	false	{"stem": [], "anas": []}	[]	we'r	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	ROOT	0	I-NP	O
+
+always	false	{"stem": [], "anas": []}	[]	Always	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+using	false	{"stem": [], "anas": []}	[{"lemma": "using", "tag": "[/N][Nom]", "morphana": "using[/N]=using+[Nom]=", "readable": "using[/N] + [Nom]", "twolevel": "u:u s:s i:i n:n g:g :[/N] :[Nom]"}]	using	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+core	false	{"stem": [], "anas": []}	[{"lemma": "core", "tag": "[/N][Nom]", "morphana": "core[/N]=core+[Nom]=", "readable": "core[/N] + [Nom]", "twolevel": "c:c o:o r:r e:e :[/N] :[Nom]"}]	core	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	3	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+features	false	{"stem": [], "anas": []}	[]	features	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	6	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	9	CONJ	8	I-NP	O
+
+functionality	false	{"stem": [], "anas": []}	[]	functionality	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	9	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+get	false	{"stem": [], "anas": []}	[]	g	[/N][Acc]	NOUN	Case=Acc|Number=Sing	12	OBJ	13	I-NP	O
+
+things	false	{"stem": [], "anas": []}	[]	things	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	COORD	8	I-NP	O
+
+done	false	{"stem": [], "anas": []}	[]	done	[/N][Nom]	NOUN	Case=Nom|Number=Sing	14	COORD	13	E-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	15	CONJ	14	O	O
+
+that	false	{"stem": [], "anas": []}	[{"lemma": "that", "tag": "[/X]", "morphana": "that[/X]=that", "readable": "that[/X]", "twolevel": "t:t h:h a:a t:t :[/X]"}]	that	[/X]	X	_	16	COORD	15	O	O
+
+guarantees	false	{"stem": [], "anas": []}	[{"lemma": "guarantees", "tag": "[/Adj][Nom]", "morphana": "guarantee[/N]=guarantee+s[_Adjz:s/Adj]=s+[Nom]=", "readable": "guarantee[/N] + s[_Adjz:s/Adj] + [Nom]", "twolevel": "g:g u:u a:a r:r a:a n:n t:t e:e e:e :[/N] s:s :[_Adjz:s/Adj] :[Nom]"}, {"lemma": "guarantees", "tag": "[/N][Nom]", "morphana": "guarantee[/N]=guarantee+s[_Nz:s/N]=s+[Nom]=", "readable": "guarantee[/N] + s[_Nz:s/N] + [Nom]", "twolevel": "g:g u:u a:a r:r a:a n:n t:t e:e e:e :[/N] s:s :[_Nz:s/N] :[Nom]"}]	guarantees	[/N][Nom]	NOUN	Case=Nom|Number=Sing	17	ATT	18	B-NP	O
+
+stability	false	{"stem": [], "anas": []}	[]	stability	[/N][Nom]	NOUN	Case=Nom|Number=Sing	18	COORD	14	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	19	PUNCT	18	I-NP	O
+
+performance	true	{"stem": ["performance"], "anas": [[["st", "performance"], ["po", "noun"], ["ts", "NOM"], ["al", "performance-szá"], ["al", "performance-szal"], ["al", "performance-os"], ["al", "performance-"], ["ph", "performansz"], ["ph", "performans"]]]}	[{"lemma": "performance", "tag": "[/N][Nom]", "morphana": "performance[/N]=performance+[Nom]=", "readable": "performance[/N] + [Nom]", "twolevel": "p:p e:e r:r f:f o:o r:r m:m a:a n:n c:c e:e :[/N] :[Nom]"}]	performance	[/N][Nom]	NOUN	Case=Nom|Number=Sing	20	COORD	18	I-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	21	CONJ	20	I-NP	O
+
+most	true	{"stem": ["most"], "anas": [[["st", "most"], ["po", "adv"]], [["st", "most"], ["po", "con"]]]}	[{"lemma": "most", "tag": "[/Adv]", "morphana": "most[/Adv]=most", "readable": "most[/Adv]", "twolevel": "m:m o:o s:s t:t :[/Adv]"}]	most	[/Adv]	ADV	_	22	TLOCY	24	I-NP	O
+
+importantly	false	{"stem": [], "anas": []}	[]	importantly	[/N][Nom]	NOUN	Case=Nom|Number=Sing	23	ATT	24	I-NP	O
+
+–	true	{"stem": ["–"], "anas": [[["st", "–"], ["po", "punct"]]]}	[{"lemma": "", "tag": "[Hyph:Dash]", "morphana": "–[Hyph:Dash]=–", "readable": "–[Hyph:Dash]", "twolevel": "–:– :[Hyph:Dash]"}]		[Hyph:Dash]	X	_	24	ATT	25	I-NP	O
+
+security	false	{"stem": [], "anas": []}	[{"lemma": "security", "tag": "[/N][Nom]", "morphana": "security[/N]=security+[Nom]=", "readable": "security[/N] + [Nom]", "twolevel": "s:s e:e c:c u:u r:r i:i t:t y:y :[/N] :[Nom]"}]	security	[/N][Nom]	NOUN	Case=Nom|Number=Sing	25	COORD	21	E-NP	O
+
+!	true	{"stem": ["!"], "anas": [[["st", "!"], ["po", "punct"]]]}	[{"lemma": "!", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	!	[Punct]	PUNCT	_	26	PUNCT	0	O	O
+
+
+
+User	false	{"stem": [], "anas": []}	[{"lemma": "user", "tag": "[/N][Nom]", "morphana": "user[/N]=user+[Nom]=", "readable": "user[/N] + [Nom]", "twolevel": "u:u s:s e:e r:r :[/N] :[Nom]"}]	user	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+input	true	{"stem": ["input"], "anas": [[["st", "input"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "input", "tag": "[/N][Nom]", "morphana": "input[/N]=input+[Nom]=", "readable": "input[/N] + [Nom]", "twolevel": "i:i n:n p:p u:u t:t :[/N] :[Nom]"}]	input	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	B-NP	O
+
+creations	false	{"stem": [], "anas": []}	[]	creations	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+have	false	{"stem": [], "anas": []}	[]	have	[/N]	NOUN	Case=Nom|Number=Sing	3	COORD	1	I-NP	O
+
+always	false	{"stem": [], "anas": []}	[]	always	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	4	ATT	5	I-NP	O
+
+benefited	false	{"stem": [], "anas": []}	[]	benefited	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	3	I-NP	O
+
+from	false	{"stem": [], "anas": []}	[{"lemma": "from", "tag": "[/X]", "morphana": "from[/X]=from", "readable": "from[/X]", "twolevel": "f:f r:r o:o m:m :[/X]"}]	from	[/X]	X	_	6	ATT	7	I-NP	O
+
+user	false	{"stem": [], "anas": []}	[{"lemma": "user", "tag": "[/N][Nom]", "morphana": "user[/N]=user+[Nom]=", "readable": "user[/N] + [Nom]", "twolevel": "u:u s:s e:e r:r :[/N] :[Nom]"}]	user	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+feedback	false	{"stem": [], "anas": []}	[{"lemma": "feedback", "tag": "[/N][Nom]", "morphana": "feedback[/N]=feedback+[Nom]=", "readable": "feedback[/N] + [Nom]", "twolevel": "f:f e:e e:e d:d b:b a:a c:c k:k :[/N] :[Nom]"}]	feedback	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	5	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	9	PUNCT	0	O	O
+
+
+
+We	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+bring	false	{"stem": [], "anas": []}	[]	bring	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	SUBJ	13	I-NP	O
+
+them	false	{"stem": [], "anas": []}	[]	the	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+life	false	{"stem": [], "anas": []}	[{"lemma": "life", "tag": "[/N][Nom]", "morphana": "life[/N]=life+[Nom]=", "readable": "life[/N] + [Nom]", "twolevel": "l:l i:i f:f e:e :[/N] :[Nom]"}]	life	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	ATT	6	I-NP	O
+
+but	false	{"stem": [], "anas": []}	[]	bu	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+it's	false	{"stem": [], "anas": []}	[]	it's	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	8	ATT	9	I-NP	O
+
+users	false	{"stem": [], "anas": []}	[{"lemma": "users", "tag": "[/N][Nom]", "morphana": "users[/N]=users+[Nom]=", "readable": "users[/N] + [Nom]", "twolevel": "u:u s:s e:e r:r s:s :[/N] :[Nom]"}]	users	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+that	false	{"stem": [], "anas": []}	[{"lemma": "that", "tag": "[/X]", "morphana": "that[/X]=that", "readable": "that[/X]", "twolevel": "t:t h:h a:a t:t :[/X]"}]	that	[/X]	X	_	10	ATT	11	I-NP	O
+
+make	false	{"stem": [], "anas": []}	[{"lemma": "make", "tag": "[/N][Nom]", "morphana": "make[/N]=make+[Nom]=", "readable": "make[/N] + [Nom]", "twolevel": "m:m a:a k:k e:e :[/N] :[Nom]"}]	make	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+them	false	{"stem": [], "anas": []}	[]	the	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	SUBJ	13	E-NP	O
+
+shine	false	{"stem": [], "anas": []}	[]	shi	[/V][Cond.NDef.3Sg]	VERB	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	ROOT	0	O	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	14	PUNCT	0	O	O
+
+
+
+Tweaks	false	{"stem": [], "anas": []}	[]	Tweaks	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	B-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	2	PUNCT	1	I-NP	O
+
+new	false	{"stem": [], "anas": []}	[]	New	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	NE	4	I-NP	O
+
+options	false	{"stem": [], "anas": []}	[]	Options	[/N][Nom]	PROPN	Case=Nom|Number=Sing	4	COORD	1	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	5	PUNCT	4	I-NP	O
+
+minor	true	{"stem": ["minor"], "anas": [[["st", "minor"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "minor", "tag": "[/Adj][Nom]", "morphana": "minor[/Adj]=minor+[Nom]=", "readable": "minor[/Adj] + [Nom]", "twolevel": "m:m i:i n:n o:o r:r :[/Adj] :[Nom]"}]	minor	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	ATT	7	I-NP	O
+
+or	false	{"stem": [], "anas": []}	[]	or	[/N]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+even	false	{"stem": [], "anas": []}	[]	ev	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	COORD	4	I-NP	O
+
+major	true	{"stem": ["major"], "anas": [[["st", "major"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "major", "tag": "[/N][Nom]", "morphana": "major[/N]=major+[Nom]=", "readable": "major[/N] + [Nom]", "twolevel": "m:m a:a j:j o:o r:r :[/N] :[Nom]"}]	major	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+features	false	{"stem": [], "anas": []}	[]	features	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	COORD	8	I-NP	O
+
+are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+constantly	false	{"stem": [], "anas": []}	[]	constantly	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	ATT	13	I-NP	O
+
+added	false	{"stem": [], "anas": []}	[]	added	[/N][Nom]	NOUN	Case=Nom|Number=Sing	13	COORD	10	E-NP	O
+
+as	true	{"stem": ["as"], "anas": [[["st", "as"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "as", "tag": "[/X]", "morphana": "as[/X]=as", "readable": "as[/X]", "twolevel": "a:a s:s :[/X]"}]	as	[/X]	X	_	14	CONJ	13	O	O
+
+a	true	{"stem": ["a"], "anas": [[["st", "a"], ["po", "noun"], ["ts", "NOM"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]], [["st", "a"], ["po", "det_def"], ["al", "a-vá"], ["al", "a-val"], ["al", "a-"], ["al", "A-s"]]]}	[{"lemma": "a", "tag": "[/Det|Art.Def]", "morphana": "a[/Det|Art.Def]=a", "readable": "a[/Det|Art.Def]", "twolevel": "a:a :[/Det|Art.Def]"}, {"lemma": "a", "tag": "[/Det|Pro|(Post)]", "morphana": "a[/Det|Pro|(Post)]=a", "readable": "a[/Det|Pro|(Post)]", "twolevel": "a:a :[/Det|Pro|(Post)]"}, {"lemma": "a", "tag": "[/N][Nom]", "morphana": "a[/N|Ltr]=a+[Nom]=", "readable": "a[/N|Ltr] + [Nom]", "twolevel": "a:a :[/N|Ltr] :[Nom]"}, {"lemma": "a", "tag": "[/N|Pro|(Post)][Nom]", "morphana": "a[/N|Pro|(Post)]=a+[Nom]=", "readable": "a[/N|Pro|(Post)] + [Nom]", "twolevel": "a:a :[/N|Pro|(Post)] :[Nom]"}]	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	15	DET	16	B-NP	O
+
+result	false	{"stem": [], "anas": []}	[]	result	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	ATT	18	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	17	ATT	18	O	O
+
+this	false	{"stem": [], "anas": []}	[{"lemma": "this", "tag": "[/X]", "morphana": "this[/X]=this", "readable": "this[/X]", "twolevel": "t:t h:h i:i s:s :[/X]"}]	this	[/X]	X	_	18	ATT	19	O	O
+
+feedback	false	{"stem": [], "anas": []}	[{"lemma": "feedback", "tag": "[/N][Nom]", "morphana": "feedback[/N]=feedback+[Nom]=", "readable": "feedback[/N] + [Nom]", "twolevel": "f:f e:e e:e d:d b:b a:a c:c k:k :[/N] :[Nom]"}]	feedback	[/N][Nom]	NOUN	Case=Nom|Number=Sing	19	SUBJ	14	1-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	20	PUNCT	0	O	O
+
+
+
+Customization	false	{"stem": [], "anas": []}	[]	Customization	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+There's	false	{"stem": [], "anas": []}	[]	There's	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+more	false	{"stem": [], "anas": []}	[{"lemma": "more", "tag": "[/N][Nom]", "morphana": "more[/N]=more+[Nom]=", "readable": "more[/N] + [Nom]", "twolevel": "m:m o:o r:r e:e :[/N] :[Nom]"}]	more	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+than	false	{"stem": [], "anas": []}	[{"lemma": "than", "tag": "[/X]", "morphana": "than[/X]=than", "readable": "than[/X]", "twolevel": "t:t h:h a:a n:n :[/X]"}]	than	[/X]	X	_	3	ATT	4	I-NP	O
+
+meets	false	{"stem": [], "anas": []}	[]	meets	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	5	ATT	6	I-NP	O
+
+eye	false	{"stem": [], "anas": []}	[{"lemma": "eye", "tag": "[/N][Nom]", "morphana": "eye[/N]=eye+[Nom]=", "readable": "eye[/N] + [Nom]", "twolevel": "e:e y:y e:e :[/N] :[Nom]"}]	eye	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	4	I-NP	O
+
+with	false	{"stem": [], "anas": []}	[{"lemma": "with", "tag": "[/X]", "morphana": "with[/X]=with", "readable": "with[/X]", "twolevel": "w:w i:i t:t h:h :[/X]"}]	with	[/X]	X	_	7	ATT	8	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	9	I-NP	O
+
+free	false	{"stem": [], "anas": []}	[{"lemma": "free", "tag": "[/N][Nom]", "morphana": "free[/N]=free+[Nom]=", "readable": "free[/N] + [Nom]", "twolevel": "f:f r:r e:e e:e :[/N] :[Nom]"}]	free	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	COORD	6	I-NP	O
+
+WordPress	false	{"stem": [], "anas": []}	[]	WordPress	[/N][Nom]	PROPN	Case=Nom|Number=Sing	10	ATT	11	I-NP	O
+
+themes	false	{"stem": [], "anas": []}	[]	themes	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	COORD	9	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	12	PUNCT	0	O	O
+
+
+
+What	false	{"stem": [], "anas": []}	[]	What	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	2	ATT	3	I-NP	O
+
+see	false	{"stem": [], "anas": []}	[]	se	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	I-NP	O
+
+in	true	{"stem": ["in"], "anas": [[["st", "in"], ["po", "part"]]]}	[{"lemma": "in", "tag": "[/N][Nom]", "morphana": "in[/N|Unit|Abbr]=in+[Nom]=", "readable": "in[/N|Unit|Abbr] + [Nom]", "twolevel": "i:i n:n :[/N|Unit|Abbr] :[Nom]"}]	in	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	5	ATT	6	I-NP	O
+
+screenshots	false	{"stem": [], "anas": []}	[]	screenshots	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	COORD	3	I-NP	O
+
+or	false	{"stem": [], "anas": []}	[]	or	[/N]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+live	false	{"stem": [], "anas": []}	[]	live	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	COORD	6	I-NP	O
+
+demos	false	{"stem": [], "anas": []}	[]	demos	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	9	ATT	12	I-NP	O
+
+is	true	{"stem": ["is"], "anas": [[["st", "is"], ["po", "con"]]]}	[{"lemma": "is", "tag": "[/Adv]", "morphana": "is[/Adv]=is", "readable": "is[/Adv]", "twolevel": "i:i s:s :[/Adv]"}]	is	[/Adv]	ADV	_	10	MODE	9	I-NP	O
+
+but	false	{"stem": [], "anas": []}	[]	bu	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	ATT	12	I-NP	O
+
+one	false	{"stem": [], "anas": []}	[{"lemma": "one", "tag": "[/N][Nom]", "morphana": "one[/N]=one+[Nom]=", "readable": "one[/N] + [Nom]", "twolevel": "o:o n:n e:e :[/N] :[Nom]"}]	one	[/N][Nom]	NOUN	Case=Nom|Number=Sing	12	COORD	8	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	13	ATT	14	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	14	ATT	15	O	O
+
+virtually	false	{"stem": [], "anas": []}	[]	virtually	[/N][Nom]	NOUN	Case=Nom|Number=Sing	15	ATT	16	B-NP	O
+
+unlimited	false	{"stem": [], "anas": []}	[]	unlimited	[/N][Nom]	NOUN	Case=Nom|Number=Sing	16	ATT	17	I-NP	O
+
+number	false	{"stem": [], "anas": []}	[{"lemma": "number", "tag": "[/N][Nom]", "morphana": "number[/N]=number+[Nom]=", "readable": "number[/N] + [Nom]", "twolevel": "n:n u:u m:m b:b e:e r:r :[/N] :[Nom]"}]	number	[/N][Nom]	NOUN	Case=Nom|Number=Sing	17	COORD	12	E-NP	O
+
+of	false	{"stem": [], "anas": []}	[{"lemma": "of", "tag": "[/X]", "morphana": "of[/X]=of", "readable": "of[/X]", "twolevel": "o:o f:f :[/X]"}]	of	[/X]	X	_	18	ATT	19	O	O
+
+personas	false	{"stem": [], "anas": []}	[]	personas	[/N][Nom]	NOUN	Case=Nom|Number=Sing	19	COORD	17	O	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	20	ATT	21	O	O
+
+can	false	{"stem": [], "anas": []}	[]	can	[/N][Nom]	NOUN	Case=Nom|Number=Sing	21	COORD	19	B-NP	O
+
+create	false	{"stem": [], "anas": []}	[]	create	[/N][Nom]	NOUN	Case=Nom|Number=Sing	22	ATT	23	I-NP	O
+
+using	false	{"stem": [], "anas": []}	[{"lemma": "using", "tag": "[/N][Nom]", "morphana": "using[/N]=using+[Nom]=", "readable": "using[/N] + [Nom]", "twolevel": "u:u s:s i:i n:n g:g :[/N] :[Nom]"}]	using	[/N][Nom]	NOUN	Case=Nom|Number=Sing	23	COORD	21	I-NP	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	24	ATT	25	I-NP	O
+
+extensive	false	{"stem": [], "anas": []}	[]	extensive	[/N][Nom]	NOUN	Case=Nom|Number=Sing	25	COORD	23	I-NP	O
+
+theme	false	{"stem": [], "anas": []}	[]	theme	[/Det|Pro|def]	ADV	PronType=Art	26	MODE	28	I-NP	O
+
+options	false	{"stem": [], "anas": []}	[]	Options	[/N][Nom]	PROPN	Case=Nom|Number=Sing	27	ATT	28	I-NP	O
+
+included	false	{"stem": [], "anas": []}	[]	included	[/N][Nom]	NOUN	Case=Nom|Number=Sing	28	COORD	25	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	29	PUNCT	0	O	O
+
+
+
+Resources	false	{"stem": [], "anas": []}	[]	Resources	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	1-NP	O
+
+Documentation	false	{"stem": [], "anas": []}	[]	Documentation	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	O	O
+
+
+
+Tutorials	false	{"stem": [], "anas": []}	[]	Tutorials	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+OpenCart	false	{"stem": [], "anas": []}	[]	OpenCart	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Support	false	{"stem": [], "anas": []}	[{"lemma": "support", "tag": "[/N][Nom]", "morphana": "support[/N]=support+[Nom]=", "readable": "support[/N] + [Nom]", "twolevel": "s:s u:u p:p p:p o:o r:r t:t :[/N] :[Nom]"}]	support	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+Forum	false	{"stem": [], "anas": []}	[{"lemma": "Forum", "tag": "[/N][Nom]", "morphana": "Forum[/N]=Forum+[Nom]=", "readable": "Forum[/N] + [Nom]", "twolevel": "F:F o:o r:r u:u m:m :[/N] :[Nom]"}]	Forum	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+News	false	{"stem": [], "anas": []}	[{"lemma": "News", "tag": "[/N][Nom]", "morphana": "News[/N]=News+[Nom]=", "readable": "News[/N] + [Nom]", "twolevel": "N:N e:e w:w s:s :[/N] :[Nom]"}, {"lemma": "news", "tag": "[/N][Nom]", "morphana": "news[/N]=news+[Nom]=", "readable": "news[/N] + [Nom]", "twolevel": "n:n e:e w:w s:s :[/N] :[Nom]"}]	News	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+&	false	{"stem": [], "anas": []}	[{"lemma": "&", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	&	[Punct]	PUNCT	_	2	PUNCT	1	O	O
+
+Blog	true	{"stem": ["blog"], "anas": [[["st", "blog"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "blog", "tag": "[/N][Nom]", "morphana": "blog[/N]=blog+[Nom]=", "readable": "blog[/N] + [Nom]", "twolevel": "b:b l:l o:o g:g :[/N] :[Nom]"}]	blog	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	COORD	1	O	O
+
+
+
+Services	false	{"stem": [], "anas": []}	[{"lemma": "Services", "tag": "[/N][Nom]", "morphana": "Services[/N]=Services+[Nom]=", "readable": "Services[/N] + [Nom]", "twolevel": "S:S e:e r:r v:v i:i c:c e:e s:s :[/N] :[Nom]"}, {"lemma": "services", "tag": "[/N][Nom]", "morphana": "services[/N]=services+[Nom]=", "readable": "services[/N] + [Nom]", "twolevel": "s:s e:e r:r v:v i:i c:c e:e s:s :[/N] :[Nom]"}]	Services	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+Themes	false	{"stem": [], "anas": []}	[]	Themes	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Plugins	false	{"stem": [], "anas": []}	[]	Plugins	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Pricing	false	{"stem": [], "anas": []}	[]	Pricing	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Priority	false	{"stem": [], "anas": []}	[]	Priority	[/N]	PROPN	Case=Nom|Number=Sing	1	ATT	2	1-NP	O
+
+Support	false	{"stem": [], "anas": []}	[{"lemma": "support", "tag": "[/N][Nom]", "morphana": "support[/N]=support+[Nom]=", "readable": "support[/N] + [Nom]", "twolevel": "s:s u:u p:p p:p o:o r:r t:t :[/N] :[Nom]"}]	support	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	O	O
+
+
+
+Customization	false	{"stem": [], "anas": []}	[]	Customization	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Company	false	{"stem": [], "anas": []}	[{"lemma": "Company", "tag": "[/N][Nom]", "morphana": "Company[/N]=Company+[Nom]=", "readable": "Company[/N] + [Nom]", "twolevel": "C:C o:o m:m p:p a:a n:n y:y :[/N] :[Nom]"}]	Company	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+About	false	{"stem": [], "anas": []}	[]	About	[/N][Nom]	PROPN	Case=Nom|Number=Sing	2	NE	3	I-NP	O
+
+Us	false	{"stem": [], "anas": []}	[]	Us	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+
+
+Terms	false	{"stem": [], "anas": []}	[]	Terms	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	O	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	2	ROOT	0	O	O
+
+Conditions	false	{"stem": [], "anas": []}	[]	Conditions	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	COORD	2	O	O
+
+
+
+Online	true	{"stem": ["online"], "anas": [[["st", "online"], ["po", "noun"], ["ts", "NOM"], ["al", "online-t"], ["al", "online-os"], ["al", "online-ná"], ["al", "online-nal"], ["al", "online-"], ["ph", "onlájn"], ["ph", "on-line*"]]]}	[{"lemma": "online", "tag": "[/Adj|Attr][Nom]", "morphana": "online[/Adj|Attr]=online+[Nom]=", "readable": "online[/Adj|Attr] + [Nom]", "twolevel": "o:o n:n l:l i:i n:n e:e :[/Adj|Attr] :[Nom]"}, {"lemma": "online", "tag": "[/Adv]", "morphana": "online[/Adv]=online", "readable": "online[/Adv]", "twolevel": "o:o n:n l:l i:i n:n e:e :[/Adv]"}]	online	[/Adj|Attr][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	ATT	3	B-NP	O
+
+Dispute	false	{"stem": [], "anas": []}	[]	Dispute	[/N]	PROPN	Case=Nom|Number=Sing	2	NE	3	E-NP	O
+
+Resolution	false	{"stem": [], "anas": []}	[{"lemma": "Resolution", "tag": "[/N][Nom]", "morphana": "Resolution[/N]=Resolution+[Nom]=", "readable": "Resolution[/N] + [Nom]", "twolevel": "R:R e:e s:s o:o l:l u:u t:t i:i o:o n:n :[/N] :[Nom]"}, {"lemma": "resolution", "tag": "[/N][Nom]", "morphana": "resolution[/N]=resolution+[Nom]=", "readable": "resolution[/N] + [Nom]", "twolevel": "r:r e:e s:s o:o l:l u:u t:t i:i o:o n:n :[/N] :[Nom]"}]	Resolution	[/N][Nom]	PROPN	Case=Nom|Number=Sing	3	ROOT	0	O	O
+
+
+
+Privacy	false	{"stem": [], "anas": []}	[{"lemma": "privacy", "tag": "[/N][Nom]", "morphana": "privacy[/N]=privacy+[Nom]=", "readable": "privacy[/N] + [Nom]", "twolevel": "p:p r:r i:i v:v a:a c:c y:y :[/N] :[Nom]"}]	privacy	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+Policy	false	{"stem": [], "anas": []}	[{"lemma": "policy", "tag": "[/N][Nom]", "morphana": "policy[/N]=policy+[Nom]=", "readable": "policy[/N] + [Nom]", "twolevel": "p:p o:o l:l i:i c:c y:y :[/N] :[Nom]"}]	policy	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	E-NP	O
+
+
+
+Contact	false	{"stem": [], "anas": []}	[]	Contact	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Stay	false	{"stem": [], "anas": []}	[]	Stay	[/N]	PROPN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+up	false	{"stem": [], "anas": []}	[]	up	[/N]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+to	false	{"stem": [], "anas": []}	[]	to	[/N]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+date	false	{"stem": [], "anas": []}	[]	date	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	E-NP	O
+
+
+
+Are	false	{"stem": [], "anas": []}	[]	a	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	2	ATT	3	I-NP	O
+
+enjoying	false	{"stem": [], "anas": []}	[]	enjoying	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	I-NP	O
+
+our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	I-NP	O
+
+creations	false	{"stem": [], "anas": []}	[]	creations	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	3	E-NP	O
+
+?	true	{"stem": ["?"], "anas": [[["st", "?"], ["po", "punct"]]]}	[{"lemma": "?", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	?	[Punct]	PUNCT	_	6	PUNCT	0	O	O
+
+
+
+Subscribe	false	{"stem": [], "anas": []}	[]	Subscribe	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	NE	2	B-NP	O
+
+and	false	{"stem": [], "anas": []}	[{"lemma": "and", "tag": "[/X]", "morphana": "and[/X]=and", "readable": "and[/X]", "twolevel": "a:a n:n d:d :[/X]"}]	and	[/X]	X	_	2	ROOT	0	I-NP	O
+
+we'll	false	{"stem": [], "anas": []}	[]	we'll	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	I-NP	O
+
+let	false	{"stem": [], "anas": []}	[]	le	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	I-NP	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	5	ATT	6	I-NP	O
+
+know	false	{"stem": [], "anas": []}	[{"lemma": "know", "tag": "[/N][Nom]", "morphana": "know[/N]=know+[Nom]=", "readable": "know[/N] + [Nom]", "twolevel": "k:k n:n o:o w:w :[/N] :[Nom]"}]	know	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+when	false	{"stem": [], "anas": []}	[]	when	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+we	false	{"stem": [], "anas": []}	[]	w	[/N][Poss.3Sg][Nom]	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	COORD	4	E-NP	O
+
+release	false	{"stem": [], "anas": []}	[]	release	[/Adv]	ADV	_	9	MODE	11	O	O
+
+more	false	{"stem": [], "anas": []}	[{"lemma": "more", "tag": "[/N][Nom]", "morphana": "more[/N]=more+[Nom]=", "readable": "more[/N] + [Nom]", "twolevel": "m:m o:o r:r e:e :[/N] :[Nom]"}]	more	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	ATT	11	B-NP	O
+
+goodies	false	{"stem": [], "anas": []}	[]	goodies	[/N][Nom]	NOUN	Case=Nom|Number=Sing	11	COORD	8	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	12	PUNCT	0	O	O
+
+
+
+Working	false	{"stem": [], "anas": []}	[]	Working	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+...	true	{"stem": ["..."], "anas": [[["st", "..."], ["po", "punct"]]]}	[{"lemma": "...", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	...	[Punct]	PUNCT	_	2	PUNCT	0	O	O
+
+
+
+Thank	false	{"stem": [], "anas": []}	[]	Thank	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	5	O	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	2	ATT	3	O	O
+
+for	false	{"stem": [], "anas": []}	[{"lemma": "for", "tag": "[/X]", "morphana": "for[/X]=for", "readable": "for[/X]", "twolevel": "f:f o:o r:r :[/X]"}]	for	[/X]	X	_	3	ATT	4	O	O
+
+signing	false	{"stem": [], "anas": []}	[]	signing	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	B-NP	O
+
+up	false	{"stem": [], "anas": []}	[]	up	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	ROOT	0	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	6	PUNCT	0	O	O
+
+
+
+We'll	false	{"stem": [], "anas": []}	[]	We'll	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ATT	3	B-NP	O
+
+only	false	{"stem": [], "anas": []}	[]	only	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ATT	3	I-NP	O
+
+bother	false	{"stem": [], "anas": []}	[]	bother	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	I-NP	O
+
+you	false	{"stem": [], "anas": []}	[{"lemma": "you", "tag": "[/X]", "morphana": "you[/X]=you", "readable": "you[/X]", "twolevel": "y:y o:o u:u :[/X]"}]	you	[/X]	X	_	4	ATT	5	I-NP	O
+
+when	false	{"stem": [], "anas": []}	[]	when	[/N][Nom]	NOUN	Case=Nom|Number=Sing	5	COORD	3	I-NP	O
+
+we	false	{"stem": [], "anas": []}	[]	We	[/N][Nom]	PROPN	Case=Nom|Number=Sing	6	ATT	7	I-NP	O
+
+bake	false	{"stem": [], "anas": []}	[]	bake	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ATT	8	I-NP	O
+
+more	false	{"stem": [], "anas": []}	[{"lemma": "more", "tag": "[/N][Nom]", "morphana": "more[/N]=more+[Nom]=", "readable": "more[/N] + [Nom]", "twolevel": "m:m o:o r:r e:e :[/N] :[Nom]"}]	more	[/N][Nom]	NOUN	Case=Nom|Number=Sing	8	ATT	9	I-NP	O
+
+cookies	false	{"stem": [], "anas": []}	[]	cookies	[/N][Nom]	NOUN	Case=Nom|Number=Sing	9	COORD	5	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	10	PUNCT	0	O	O
+
+
+
+Copyright	true	{"stem": ["copyright"], "anas": [[["st", "copyright"], ["po", "noun"], ["ts", "NOM"], ["ph", "kopirájt"]]]}	[{"lemma": "copyright", "tag": "[/N][Nom]", "morphana": "copyright[/N]=copyright+[Nom]=", "readable": "copyright[/N] + [Nom]", "twolevel": "c:c o:o p:p y:y r:r i:i g:g h:h t:t :[/N] :[Nom]"}]	copyright	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	O	O
+
+©	false	{"stem": [], "anas": []}	[{"lemma": "©", "tag": "[/X]", "morphana": "©[/X]=©", "readable": "©[/X]", "twolevel": "©:© :[/X]"}]	©	[/X]	X	_	2	ROOT	0	O	O
+
+2011-2019	true	{"stem": [], "anas": []}	[{"lemma": "2011-2019", "tag": "[/Num|Digit][Nom]", "morphana": "2[/Num|Digit]=2+0[/Num|Digit]=0+1[/Num|Digit]=1+1[/Num|Digit]=1+[Nom]=+-[Hyph:Hyph]=-+2[/Num|Digit]=2+0[/Num|Digit]=0+1[/Num|Digit]=1+9[/Num|Digit]=9+[Nom]=", "readable": "2[/Num|Digit] + 0[/Num|Digit] + 1[/Num|Digit] + 1[/Num|Digit] + [Nom] + -[Hyph:Hyph] + 2[/Num|Digit] + 0[/Num|Digit] + 1[/Num|Digit] + 9[/Num|Digit] + [Nom]", "twolevel": "2:2 :[/Num|Digit] 0:0 :[/Num|Digit] 1:1 :[/Num|Digit] 1:1 :[/Num|Digit] :[Nom] -:- :[Hyph:Hyph] 2:2 :[/Num|Digit] 0:0 :[/Num|Digit] 1:1 :[/Num|Digit] 9:9 :[/Num|Digit] :[Nom]"}]	2011-2019	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	3	COORD	2	B-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	4	PUNCT	2	I-NP	O
+
+Cryout	false	{"stem": [], "anas": []}	[]	Cryout	[/N][Nom]	PROPN	Case=Nom|Number=Sing	5	NE	6	I-NP	B-PER
+
+Creations	false	{"stem": [], "anas": []}	[]	Creations	[/N][Nom]	PROPN	Case=Nom|Number=Sing	6	NE	7	I-NP	I-PER
+
+Srl	false	{"stem": [], "anas": []}	[]	Srl	[/N]	PROPN	Case=Nom|Number=Sing	7	COORD	2	I-NP	E-PER
+
+•	false	{"stem": [], "anas": []}	[{"lemma": "•", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	•	[Punct]	PUNCT	_	8	PUNCT	7	I-NP	O
+
+Engineered	false	{"stem": [], "anas": []}	[]	Engineered	[/N][Nom]	PROPN	Case=Nom|Number=Sing	9	ATT	10	I-NP	O
+
+in	true	{"stem": ["in"], "anas": [[["st", "in"], ["po", "part"]]]}	[{"lemma": "in", "tag": "[/N][Nom]", "morphana": "in[/N|Unit|Abbr]=in+[Nom]=", "readable": "in[/N|Unit|Abbr] + [Nom]", "twolevel": "i:i n:n :[/N|Unit|Abbr] :[Nom]"}]	in	[/N][Nom]	NOUN	Case=Nom|Number=Sing	10	ATT	11	I-NP	O
+
+Europe	false	{"stem": [], "anas": []}	[{"lemma": "Europe", "tag": "[/N][Nom]", "morphana": "Europe[/N]=Europe+[Nom]=", "readable": "Europe[/N] + [Nom]", "twolevel": "E:E u:u r:r o:o p:p e:e :[/N] :[Nom]"}]	Europe	[/N][Nom]	PROPN	Case=Nom|Number=Sing	11	COORD	7	E-NP	O
+
+
+
+Our	false	{"stem": [], "anas": []}	[]	our	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	B-NP	O
+
+site	false	{"stem": [], "anas": []}	[{"lemma": "site", "tag": "[/N][Nom]", "morphana": "site[/N]=site+[Nom]=", "readable": "site[/N] + [Nom]", "twolevel": "s:s i:i t:t e:e :[/N] :[Nom]"}]	site	[/N][Nom]	NOUN	Case=Nom|Number=Sing	2	ROOT	0	I-NP	O
+
+uses	false	{"stem": [], "anas": []}	[]	uses	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	4	I-NP	O
+
+cookies	false	{"stem": [], "anas": []}	[]	cookies	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	COORD	2	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	5	PUNCT	0	O	O
+
+
+
+See	false	{"stem": [], "anas": []}	[]	se	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	2	O	O
+
+the	false	{"stem": [], "anas": []}	[{"lemma": "the", "tag": "[/X]", "morphana": "the[/X]=the", "readable": "the[/X]", "twolevel": "t:t h:h e:e :[/X]"}]	the	[/X]	X	_	2	ATT	3	O	O
+
+cookies	false	{"stem": [], "anas": []}	[]	cookies	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ATT	4	B-NP	O
+
+policy	false	{"stem": [], "anas": []}	[{"lemma": "policy", "tag": "[/N][Nom]", "morphana": "policy[/N]=policy+[Nom]=", "readable": "policy[/N] + [Nom]", "twolevel": "p:p o:o l:l i:i c:c y:y :[/N] :[Nom]"}]	policy	[/N][Nom]	NOUN	Case=Nom|Number=Sing	4	ATT	5	E-NP	O
+
+for	false	{"stem": [], "anas": []}	[{"lemma": "for", "tag": "[/X]", "morphana": "for[/X]=for", "readable": "for[/X]", "twolevel": "f:f o:o r:r :[/X]"}]	for	[/X]	X	_	5	ATT	6	O	O
+
+more	false	{"stem": [], "anas": []}	[{"lemma": "more", "tag": "[/N][Nom]", "morphana": "more[/N]=more+[Nom]=", "readable": "more[/N] + [Nom]", "twolevel": "m:m o:o r:r e:e :[/N] :[Nom]"}]	more	[/N][Nom]	NOUN	Case=Nom|Number=Sing	6	ATT	7	B-NP	O
+
+information	false	{"stem": [], "anas": []}	[{"lemma": "information", "tag": "[/N][Nom]", "morphana": "information[/N]=information+[Nom]=", "readable": "information[/N] + [Nom]", "twolevel": "i:i n:n f:f o:o r:r m:m a:a t:t i:i o:o n:n :[/N] :[Nom]"}]	information	[/N][Nom]	NOUN	Case=Nom|Number=Sing	7	ROOT	0	E-NP	O
+
+.	true	{"stem": ["."], "anas": [[["st", "."], ["po", "punct"]]]}	[{"lemma": ".", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	.	[Punct]	PUNCT	_	8	PUNCT	0	O	O
+
+
+

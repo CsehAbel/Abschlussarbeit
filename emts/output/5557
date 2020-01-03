@@ -1,0 +1,26 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+viagra	false	{"stem": [], "anas": []}	[]	viag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	1	OBL	2	B-NP	O
+
+kamagra	false	{"stem": [], "anas": []}	[]	kamag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	2	OBL	3	I-NP	O
+
+cialis	false	{"stem": [], "anas": []}	[]	cialis	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	5	I-NP	O
+
+-	true	{"stem": ["-"], "anas": [[["st", "-"], ["po", "suffix"]], [["st", "-"], ["po", "punct"]]]}	[{"lemma": "-", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	-	[Punct]	PUNCT	_	4	PUNCT	5	I-NP	O
+
+Táplálékkiegészítők	true	{"stem": ["táplálékkiegészítő"], "anas": [[["pa", "táplálék"], ["st", "táplálék"], ["po", "noun"], ["ts", "NOM"], ["pa", "áplálékkiegészítők"], ["("], ["st", "kiegészítő"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"], ["|"], ["ip", "PREF"], ["sp", "ki"], ["st", "egészít"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ó_PRESPART_adj"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"], [")"]]]}	[{"lemma": "táplálékkiegészítő", "tag": "[/Adj][Pl][Nom]", "morphana": "táplálék[/N]=táplálék+ki[/Prev]=ki+egészít[/V]=egészít+ő[_ImpfPtcp/Adj]=ő+k[Pl]=k+[Nom]=", "readable": "táplálék[/N] + ki[/Prev] + egészít[/V] + ő[_ImpfPtcp/Adj] + k[Pl] + [Nom]", "twolevel": "t:t á:á p:p l:l á:á l:l é:é k:k :[/N] k:k i:i :[/Prev] e:e g:g é:é s:s z:z í:í t:t :[/V] ő:ő :[_ImpfPtcp/Adj] k:k :[Pl] :[Nom]"}, {"lemma": "táplálékkiegészítő", "tag": "[/N][Pl][Nom]", "morphana": "táplálék[/N]=táplálék+kiegészítő[/N]=kiegészítő+k[Pl]=k+[Nom]=", "readable": "táplálék[/N] + kiegészítő[/N] + k[Pl] + [Nom]", "twolevel": "t:t á:á p:p l:l á:á l:l é:é k:k :[/N] k:k i:i e:e g:g é:é s:s z:z í:í t:t ő:ő :[/N] k:k :[Pl] :[Nom]"}]	táplálékkiegészítő	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	5	ROOT	0	E-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	6	PUNCT	5	O	O
+
+tömegnövelők	true	{"stem": ["tömegnövelő"], "anas": [[["pa", "tömeg"], ["st", "tömeg"], ["po", "noun"], ["ts", "NOM"], ["pa", "ömegnövelők"], ["st", "növel"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ó_PRESPART_adj"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "tömegnövelő", "tag": "[/Adj][Pl][Nom]", "morphana": "tömeg[/N]=tömeg+növel[/V]=növel+ő[_ImpfPtcp/Adj]=ő+k[Pl]=k+[Nom]=", "readable": "tömeg[/N] + növel[/V] + ő[_ImpfPtcp/Adj] + k[Pl] + [Nom]", "twolevel": "t:t ö:ö m:m e:e g:g :[/N] n:n ö:ö v:v e:e l:l :[/V] ő:ő :[_ImpfPtcp/Adj] k:k :[Pl] :[Nom]"}]	tömegnövelő	[/Adj][Pl][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Plur	7	COORD	5	O	O
+
+
+
+http://vitalitis-info.info/taxonomy/term/9/0	false	{"stem": [], "anas": []}	[]	http://vitalitis-info.info/taxonomy/term/9/0	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	1	ROOT	0	O	O
+
+
+
+hu	false	{"stem": [], "anas": []}	[{"lemma": "hu", "tag": "[/Inj-Utt]", "morphana": "hu[/Inj-Utt]=hu", "readable": "hu[/Inj-Utt]", "twolevel": "h:h u:u :[/Inj-Utt]"}]	hu	[/Inj-Utt]	INTJ	_	1	ROOT	0	O	O
+
+
+

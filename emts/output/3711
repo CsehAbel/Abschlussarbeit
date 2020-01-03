@@ -1,0 +1,38 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+Regenon	false	{"stem": [], "anas": []}	[]	Regenon	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Regenon	false	{"stem": [], "anas": []}	[]	Regenon	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Regenon	false	{"stem": [], "anas": []}	[]	Regenon	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Kapcsolat	true	{"stem": ["kapcsolat"], "anas": [[["st", "kapcsolat"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "kapcsolat", "tag": "[/N][Nom]", "morphana": "kapcsolat[/N]=kapcsolat+[Nom]=", "readable": "kapcsolat[/N] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t :[/N] :[Nom]"}]	kapcsolat	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Rendelés	true	{"stem": ["rendelés"], "anas": [[["st", "rendel"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ás_PROCESS/RESULT_noun"], ["ts", "NOM"]]]}	[{"lemma": "rendelés", "tag": "[/N][Nom]", "morphana": "rendel[/V]=rendel+és[_Ger/N]=és+[Nom]=", "readable": "rendel[/V] + és[_Ger/N] + [Nom]", "twolevel": "r:r e:e n:n d:d e:e l:l :[/V] é:é s:s :[_Ger/N] :[Nom]"}, {"lemma": "rendelés", "tag": "[/N][Nom]", "morphana": "rendelés[/N]=rendelés+[Nom]=", "readable": "rendelés[/N] + [Nom]", "twolevel": "r:r e:e n:n d:d e:e l:l é:é s:s :[/N] :[Nom]"}]	rendelés	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ROOT	0	O	O
+
+
+
+Szállítási	true	{"stem": ["szállítás"], "anas": [[["st", "szállítás"], ["po", "noun"], ["ts", "NOM"], ["is", "i_PLACE/TIME_adj"], ["ts", "NOM"]], [["st", "szállít"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ás_PROCESS/RESULT_noun"], ["is", "i_PLACE/TIME_adj"], ["ts", "NOM"]]]}	[{"lemma": "szállítási", "tag": "[/Adj][Nom]", "morphana": "szállít[/V]=szállít+ás[_Ger/N]=ás+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "szállít[/V] + ás[_Ger/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "s:s z:z á:á l:l l:l í:í t:t :[/V] á:á s:s :[_Ger/N] i:i :[_Adjz:i/Adj] :[Nom]"}, {"lemma": "szállítási", "tag": "[/Adj][Nom]", "morphana": "szállítás[/N]=szállítás+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "szállítás[/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "s:s z:z á:á l:l l:l í:í t:t á:á s:s :[/N] i:i :[_Adjz:i/Adj] :[Nom]"}, {"lemma": "szállítási", "tag": "[/Adj][Nom]", "morphana": "szállítási[/Adj]=szállítási+[Nom]=", "readable": "szállítási[/Adj] + [Nom]", "twolevel": "s:s z:z á:á l:l l:l í:í t:t á:á s:s i:i :[/Adj] :[Nom]"}]	szállítási	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	ATT	4	B-NP	O
+
+és	true	{"stem": ["és"], "anas": [[["st", "és"], ["po", "con"]]]}	[{"lemma": "és", "tag": "[/Cnj]", "morphana": "és[/Cnj]=és", "readable": "és[/Cnj]", "twolevel": "é:é s:s :[/Cnj]"}]	és	[/Cnj]	CONJ	_	2	CONJ	1	I-NP	O
+
+Fizetési	true	{"stem": ["fizetés"], "anas": [[["st", "fizetés"], ["po", "noun"], ["ts", "NOM"], ["is", "i_PLACE/TIME_adj"], ["ts", "NOM"]], [["st", "fizet"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ás_PROCESS/RESULT_noun"], ["is", "i_PLACE/TIME_adj"], ["ts", "NOM"]]]}	[{"lemma": "fizetési", "tag": "[/Adj][Nom]", "morphana": "fizet[/V]=fizet+és[_Ger/N]=és+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "fizet[/V] + és[_Ger/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "f:f i:i z:z e:e t:t :[/V] é:é s:s :[_Ger/N] i:i :[_Adjz:i/Adj] :[Nom]"}, {"lemma": "fizetési", "tag": "[/Adj][Nom]", "morphana": "fizetés[/N]=fizetés+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "fizetés[/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "f:f i:i z:z e:e t:t é:é s:s :[/N] i:i :[_Adjz:i/Adj] :[Nom]"}, {"lemma": "fizetési", "tag": "[/Adj][Nom]", "morphana": "fizetési[/Adj]=fizetési+[Nom]=", "readable": "fizetési[/Adj] + [Nom]", "twolevel": "f:f i:i z:z e:e t:t é:é s:s i:i :[/Adj] :[Nom]"}]	fizetési	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	COORD	2	I-NP	O
+
+információk	true	{"stem": ["információ"], "anas": [[["st", "információ"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "információ", "tag": "[/N][Pl][Nom]", "morphana": "információ[/N]=információ+k[Pl]=k+[Nom]=", "readable": "információ[/N] + k[Pl] + [Nom]", "twolevel": "i:i n:n f:f o:o r:r m:m á:á c:c i:i ó:ó :[/N] k:k :[Pl] :[Nom]"}]	információ	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	4	ROOT	0	E-NP	O
+
+
+
+Regenon	false	{"stem": [], "anas": []}	[]	Regenon	[/N][Nom]	PROPN	Case=Nom|Number=Sing	1	ROOT	0	1-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	2	PUNCT	1	O	O
+
+
+

@@ -1,0 +1,24 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+viagra	false	{"stem": [], "anas": []}	[]	viag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	1	OBL	2	B-NP	O
+
+kamagra	false	{"stem": [], "anas": []}	[]	kamag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	2	OBL	3	I-NP	O
+
+cialis	false	{"stem": [], "anas": []}	[]	cialis	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	6	I-NP	O
+
+-	true	{"stem": ["-"], "anas": [[["st", "-"], ["po", "suffix"]], [["st", "-"], ["po", "punct"]]]}	[{"lemma": "-", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	-	[Punct]	PUNCT	_	4	PUNCT	3	I-NP	O
+
+Merevedési	true	{"stem": [], "anas": [[["st", "merevedik"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["ds", "Ás_PROCESS/RESULT_noun"], ["is", "i_PLACE/TIME_adj"], ["ts", "NOM"]]]}	[{"lemma": "merevedési", "tag": "[/Adj][Nom]", "morphana": "merev[/Adj]=merev+edik[_AdjVbz_Ntr/V]=ed+és[_Ger/N]=és+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "merev[/Adj] + edik[_AdjVbz_Ntr/V]=ed + és[_Ger/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "m:m e:e r:r e:e v:v :[/Adj] e:e d:d :i :k :[_AdjVbz_Ntr/V] é:é s:s :[_Ger/N] i:i :[_Adjz:i/Adj] :[Nom]"}, {"lemma": "merevedési", "tag": "[/Adj][Nom]", "morphana": "merevedik[/V]=mereved+és[_Ger/N]=és+i[_Adjz:i/Adj]=i+[Nom]=", "readable": "merevedik[/V]=mereved + és[_Ger/N] + i[_Adjz:i/Adj] + [Nom]", "twolevel": "m:m e:e r:r e:e v:v e:e d:d :i :k :[/V] é:é s:s :[_Ger/N] i:i :[_Adjz:i/Adj] :[Nom]"}]	merevedési	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	5	COORD	3	I-NP	O
+
+zavarok	true	{"stem": ["zavar"], "anas": [[["st", "zavar"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]], [["st", "zavar"], ["po", "vrb"], ["ts", "PRES_INDIC_INDEF_SG_3"], ["is", "PRES_INDIC_INDEF_SG_1"]]]}	[{"lemma": "zavar", "tag": "[/N][Pl][Nom]", "morphana": "zavar[/N]=zavar+ok[Pl]=ok+[Nom]=", "readable": "zavar[/N] + ok[Pl] + [Nom]", "twolevel": "z:z a:a v:v a:a r:r :[/N] o:o k:k :[Pl] :[Nom]"}, {"lemma": "zavar", "tag": "[/V][Prs.NDef.1Sg]", "morphana": "zavar[/V]=zavar+ok[Prs.NDef.1Sg]=ok", "readable": "zavar[/V] + ok[Prs.NDef.1Sg]", "twolevel": "z:z a:a v:v a:a r:r :[/V] o:o k:k :[Prs.NDef.1Sg]"}]	zavar	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	6	ROOT	0	E-NP	O
+
+
+
+http://vitalitis-info.info/taxonomy/term/10/0	false	{"stem": [], "anas": []}	[]	http://vitalitis-info.info/taxonomy/term/10/0	[/Num|Digit][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	1	ROOT	0	O	O
+
+
+
+hu	false	{"stem": [], "anas": []}	[{"lemma": "hu", "tag": "[/Inj-Utt]", "morphana": "hu[/Inj-Utt]=hu", "readable": "hu[/Inj-Utt]", "twolevel": "h:h u:u :[/Inj-Utt]"}]	hu	[/Inj-Utt]	INTJ	_	1	ROOT	0	O	O
+
+
+

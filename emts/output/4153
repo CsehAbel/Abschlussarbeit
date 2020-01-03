@@ -1,0 +1,10 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+Cégszolgálat	true	{"stem": ["cégszolgálat"], "anas": [[["pa", "cég"], ["st", "cég"], ["po", "noun"], ["ts", "NOM"], ["pa", "szolgálat"], ["st", "szolgálat"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "cégszolgálat", "tag": "[/N][Nom]", "morphana": "cég[/N]=cég+szolgálat[/N]=szolgálat+[Nom]=", "readable": "cég[/N] + szolgálat[/N] + [Nom]", "twolevel": "c:c é:é g:g :[/N] s:s z:z o:o l:l g:g á:á l:l a:a t:t :[/N] :[Nom]"}]	cégszolgálat	[/N][Nom]	NOUN	Case=Nom|Number=Sing	1	ATT	3	B-NP	O
+
+Ingyenes	true	{"stem": ["ingyenes"], "anas": [[["st", "ingyenes"], ["po", "adj"], ["ts", "NOM"]]]}	[{"lemma": "ingyenes", "tag": "[/Adj][Nom]", "morphana": "ingyenes[/Adj]=ingyenes+[Nom]=", "readable": "ingyenes[/Adj] + [Nom]", "twolevel": "i:i n:n g:g y:y e:e n:n e:e s:s :[/Adj] :[Nom]"}]	ingyenes	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	2	ATT	3	I-NP	O
+
+Céginformáció	true	{"stem": ["céginformáció"], "anas": [[["pa", "cég"], ["st", "cég"], ["po", "noun"], ["ts", "NOM"], ["pa", "információ"], ["st", "információ"], ["po", "noun"], ["ts", "NOM"]]]}	[{"lemma": "céginformáció", "tag": "[/N][Nom]", "morphana": "cég[/N]=cég+információ[/N]=információ+[Nom]=", "readable": "cég[/N] + információ[/N] + [Nom]", "twolevel": "c:c é:é g:g :[/N] i:i n:n f:f o:o r:r m:m á:á c:c i:i ó:ó :[/N] :[Nom]"}]	céginformáció	[/N][Nom]	NOUN	Case=Nom|Number=Sing	3	ROOT	0	E-NP	O
+
+
+

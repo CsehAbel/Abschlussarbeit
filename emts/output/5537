@@ -1,0 +1,40 @@
+form	spell	hunspell_anas	anas	lemma	xpostag	upostag	feats	id	deprel	head	NP-BIO	NER-BIO
+
+viagra	false	{"stem": [], "anas": []}	[]	viag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	1	OBL	2	B-NP	O
+
+kamagra	false	{"stem": [], "anas": []}	[]	kamag	[/N][Subl]	NOUN	Case=Sub|Number=Sing	2	OBL	3	I-NP	O
+
+cialis	false	{"stem": [], "anas": []}	[]	cialis	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	7	I-NP	O
+
+-	true	{"stem": ["-"], "anas": [[["st", "-"], ["po", "suffix"]], [["st", "-"], ["po", "punct"]]]}	[{"lemma": "-", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	-	[Punct]	PUNCT	_	4	PUNCT	3	I-NP	O
+
+Fogyasztószerekkel	true	{"stem": ["fogyasztószer"], "anas": [[["pa", "fogyasztó"], ["st", "fogyasztó"], ["po", "noun"], ["ts", "NOM"], ["pa", "ogyasztószerekkel"], ["st", "szer"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "INSTR"]]]}	[{"lemma": "fogyasztószer", "tag": "[/N][Pl][Ins]", "morphana": "fogyaszt[/V]=fogyaszt+ó[_ImpfPtcp/Adj]=ó+szer[/N]=szer+ek[Pl]=ek+kel[Ins]=kel", "readable": "fogyaszt[/V] + ó[_ImpfPtcp/Adj] + szer[/N] + ek[Pl] + kel[Ins]", "twolevel": "f:f o:o g:g y:y a:a s:s z:z t:t :[/V] ó:ó :[_ImpfPtcp/Adj] s:s z:z e:e r:r :[/N] e:e k:k :[Pl] k:k e:e l:l :[Ins]"}, {"lemma": "fogyasztószer", "tag": "[/N][Pl][Ins]", "morphana": "fogyasztó[/N]=fogyasztó+szer[/N]=szer+ek[Pl]=ek+kel[Ins]=kel", "readable": "fogyasztó[/N] + szer[/N] + ek[Pl] + kel[Ins]", "twolevel": "f:f o:o g:g y:y a:a s:s z:z t:t ó:ó :[/N] s:s z:z e:e r:r :[/N] e:e k:k :[Pl] k:k e:e l:l :[Ins]"}]	fogyasztószer	[/N][Pl][Ins]	NOUN	Case=Ins|Number=Plur	5	OBL	6	I-NP	O
+
+kapcsolatos	true	{"stem": ["kapcsolatos"], "anas": [[["st", "kapcsolatos"], ["po", "adj"], ["ts", "NOM"]], [["st", "kapcsolat"], ["po", "noun"], ["ts", "NOM"], ["ds", "s_ATTRIBUTE_adj"], ["ts", "NOM"]], [["st", "kapcsolat"], ["po", "noun"], ["ts", "NOM"], ["ds", "s_OCCUPATION_noun"], ["ts", "NOM"]]]}	[{"lemma": "kapcsolatos", "tag": "[/Adj][Nom]", "morphana": "kapcsolat[/N]=kapcsolat+os[_Adjz:s/Adj]=os+[Nom]=", "readable": "kapcsolat[/N] + os[_Adjz:s/Adj] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t :[/N] o:o s:s :[_Adjz:s/Adj] :[Nom]"}, {"lemma": "kapcsolatos", "tag": "[/N][Nom]", "morphana": "kapcsolat[/N]=kapcsolat+os[_Nz:s/N]=os+[Nom]=", "readable": "kapcsolat[/N] + os[_Nz:s/N] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t :[/N] o:o s:s :[_Nz:s/N] :[Nom]"}, {"lemma": "kapcsolatos", "tag": "[/Adj][Nom]", "morphana": "kapcsolatos[/Adj]=kapcsolatos+[Nom]=", "readable": "kapcsolatos[/Adj] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t o:o s:s :[/Adj] :[Nom]"}]	kapcsolatos	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	6	COORD	3	I-NP	O
+
+hírek	true	{"stem": ["hír"], "anas": [[["st", "hír"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "hír", "tag": "[/N][Pl][Nom]", "morphana": "hír[/N]=hír+ek[Pl]=ek+[Nom]=", "readable": "hír[/N] + ek[Pl] + [Nom]", "twolevel": "h:h í:í r:r :[/N] e:e k:k :[Pl] :[Nom]"}]	hír	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	7	ROOT	0	E-NP	O
+
+
+
+http://vitalitis-info.info/taxonomy/term/12/0	false	{"stem": [], "anas": []}	[]	http://vitalitis-info.info/taxonomy/term/12/0	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	1	ATT	2	B-NP	O
+
+Fogyasztószerekkel	true	{"stem": ["fogyasztószer"], "anas": [[["pa", "fogyasztó"], ["st", "fogyasztó"], ["po", "noun"], ["ts", "NOM"], ["pa", "ogyasztószerekkel"], ["st", "szer"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "INSTR"]]]}	[{"lemma": "fogyasztószer", "tag": "[/N][Pl][Ins]", "morphana": "fogyaszt[/V]=fogyaszt+ó[_ImpfPtcp/Adj]=ó+szer[/N]=szer+ek[Pl]=ek+kel[Ins]=kel", "readable": "fogyaszt[/V] + ó[_ImpfPtcp/Adj] + szer[/N] + ek[Pl] + kel[Ins]", "twolevel": "f:f o:o g:g y:y a:a s:s z:z t:t :[/V] ó:ó :[_ImpfPtcp/Adj] s:s z:z e:e r:r :[/N] e:e k:k :[Pl] k:k e:e l:l :[Ins]"}, {"lemma": "fogyasztószer", "tag": "[/N][Pl][Ins]", "morphana": "fogyasztó[/N]=fogyasztó+szer[/N]=szer+ek[Pl]=ek+kel[Ins]=kel", "readable": "fogyasztó[/N] + szer[/N] + ek[Pl] + kel[Ins]", "twolevel": "f:f o:o g:g y:y a:a s:s z:z t:t ó:ó :[/N] s:s z:z e:e r:r :[/N] e:e k:k :[Pl] k:k e:e l:l :[Ins]"}]	fogyasztószer	[/N][Pl][Ins]	NOUN	Case=Ins|Number=Plur	2	OBL	3	I-NP	O
+
+kapcsolatos	true	{"stem": ["kapcsolatos"], "anas": [[["st", "kapcsolatos"], ["po", "adj"], ["ts", "NOM"]], [["st", "kapcsolat"], ["po", "noun"], ["ts", "NOM"], ["ds", "s_ATTRIBUTE_adj"], ["ts", "NOM"]], [["st", "kapcsolat"], ["po", "noun"], ["ts", "NOM"], ["ds", "s_OCCUPATION_noun"], ["ts", "NOM"]]]}	[{"lemma": "kapcsolatos", "tag": "[/Adj][Nom]", "morphana": "kapcsolat[/N]=kapcsolat+os[_Adjz:s/Adj]=os+[Nom]=", "readable": "kapcsolat[/N] + os[_Adjz:s/Adj] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t :[/N] o:o s:s :[_Adjz:s/Adj] :[Nom]"}, {"lemma": "kapcsolatos", "tag": "[/N][Nom]", "morphana": "kapcsolat[/N]=kapcsolat+os[_Nz:s/N]=os+[Nom]=", "readable": "kapcsolat[/N] + os[_Nz:s/N] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t :[/N] o:o s:s :[_Nz:s/N] :[Nom]"}, {"lemma": "kapcsolatos", "tag": "[/Adj][Nom]", "morphana": "kapcsolatos[/Adj]=kapcsolatos+[Nom]=", "readable": "kapcsolatos[/Adj] + [Nom]", "twolevel": "k:k a:a p:p c:c s:s o:o l:l a:a t:t o:o s:s :[/Adj] :[Nom]"}]	kapcsolatos	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	3	ATT	4	I-NP	O
+
+hírek	true	{"stem": ["hír"], "anas": [[["st", "hír"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "hír", "tag": "[/N][Pl][Nom]", "morphana": "hír[/N]=hír+ek[Pl]=ek+[Nom]=", "readable": "hír[/N] + ek[Pl] + [Nom]", "twolevel": "h:h í:í r:r :[/N] e:e k:k :[Pl] :[Nom]"}]	hír	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	4	ROOT	0	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	5	PUNCT	4	I-NP	O
+
+információk	true	{"stem": ["információ"], "anas": [[["st", "információ"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "információ", "tag": "[/N][Pl][Nom]", "morphana": "információ[/N]=információ+k[Pl]=k+[Nom]=", "readable": "információ[/N] + k[Pl] + [Nom]", "twolevel": "i:i n:n f:f o:o r:r m:m á:á c:c i:i ó:ó :[/N] k:k :[Pl] :[Nom]"}]	információ	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	6	COORD	4	I-NP	O
+
+,	true	{"stem": [","], "anas": [[["st", ","], ["po", "punct"]]]}	[{"lemma": ",", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	,	[Punct]	PUNCT	_	7	PUNCT	6	I-NP	O
+
+újdonságok	true	{"stem": ["újdonság"], "anas": [[["st", "újdonság"], ["po", "noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]], [["st", "újdon"], ["po", "adj"], ["ts", "NOM"], ["ds", "sÁg_ABSTRACT_noun"], ["ts", "NOM"], ["is", "PLUR"], ["is", "NOM"]]]}	[{"lemma": "újdonság", "tag": "[/N][Pl][Nom]", "morphana": "újdon[/Adj]=újdon+ság[_Nz_Abstr/N]=ság+ok[Pl]=ok+[Nom]=", "readable": "újdon[/Adj] + ság[_Nz_Abstr/N] + ok[Pl] + [Nom]", "twolevel": "ú:ú j:j d:d o:o n:n :[/Adj] s:s á:á g:g :[_Nz_Abstr/N] o:o k:k :[Pl] :[Nom]"}, {"lemma": "újdonság", "tag": "[/N][Pl][Nom]", "morphana": "újdonság[/N]=újdonság+ok[Pl]=ok+[Nom]=", "readable": "újdonság[/N] + ok[Pl] + [Nom]", "twolevel": "ú:ú j:j d:d o:o n:n s:s á:á g:g :[/N] o:o k:k :[Pl] :[Nom]"}]	újdonság	[/N][Pl][Nom]	NOUN	Case=Nom|Number=Plur	8	COORD	6	E-NP	O
+
+
+
+hu	false	{"stem": [], "anas": []}	[{"lemma": "hu", "tag": "[/Inj-Utt]", "morphana": "hu[/Inj-Utt]=hu", "readable": "hu[/Inj-Utt]", "twolevel": "h:h u:u :[/Inj-Utt]"}]	hu	[/Inj-Utt]	INTJ	_	1	ROOT	0	O	O
+
+
+
